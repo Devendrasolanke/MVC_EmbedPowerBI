@@ -1,0 +1,275 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Devendra_Solanke\\PowerBI.NET\\Embed for your customers\\Embed for your customers\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{272D6B69-0644-477B-AAB8-51C71E54E208}|AppOwnsData\\AppOwnsData.csproj|d:\\devendra_solanke\\powerbi.net\\embed for your customers\\embed for your customers\\appownsdata\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{272D6B69-0644-477B-AAB8-51C71E54E208}|AppOwnsData\\AppOwnsData.csproj|solutionrelative:appownsdata\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{272D6B69-0644-477B-AAB8-51C71E54E208}|AppOwnsData\\AppOwnsData.csproj|d:\\devendra_solanke\\powerbi.net\\embed for your customers\\embed for your customers\\appownsdata\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{272D6B69-0644-477B-AAB8-51C71E54E208}|AppOwnsData\\AppOwnsData.csproj|solutionrelative:appownsdata\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{272D6B69-0644-477B-AAB8-51C71E54E208}|AppOwnsData\\AppOwnsData.csproj|D:\\Devendra_Solanke\\PowerBI.NET\\Embed for your customers\\Embed for your customers\\appownsdata\\controllers\\reportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{272D6B69-0644-477B-AAB8-51C71E54E208}|AppOwnsData\\AppOwnsData.csproj|solutionrelative:appownsdata\\controllers\\reportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{272D6B69-0644-477B-AAB8-51C71E54E208}|AppOwnsData\\AppOwnsData.csproj|d:\\devendra_solanke\\powerbi.net\\embed for your customers\\embed for your customers\\appownsdata\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{272D6B69-0644-477B-AAB8-51C71E54E208}|AppOwnsData\\AppOwnsData.csproj|solutionrelative:appownsdata\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{272D6B69-0644-477B-AAB8-51C71E54E208}|AppOwnsData\\AppOwnsData.csproj|d:\\devendra_solanke\\powerbi.net\\embed for your customers\\embed for your customers\\appownsdata\\views\\reports\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{272D6B69-0644-477B-AAB8-51C71E54E208}|AppOwnsData\\AppOwnsData.csproj|solutionrelative:appownsdata\\views\\reports\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{272D6B69-0644-477B-AAB8-51C71E54E208}|AppOwnsData\\AppOwnsData.csproj|d:\\devendra_solanke\\powerbi.net\\embed for your customers\\embed for your customers\\appownsdata\\views\\reports\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{272D6B69-0644-477B-AAB8-51C71E54E208}|AppOwnsData\\AppOwnsData.csproj|solutionrelative:appownsdata\\views\\reports\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{272D6B69-0644-477B-AAB8-51C71E54E208}|AppOwnsData\\AppOwnsData.csproj|d:\\devendra_solanke\\powerbi.net\\embed for your customers\\embed for your customers\\appownsdata\\views\\login\\resetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{272D6B69-0644-477B-AAB8-51C71E54E208}|AppOwnsData\\AppOwnsData.csproj|solutionrelative:appownsdata\\views\\login\\resetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{272D6B69-0644-477B-AAB8-51C71E54E208}|AppOwnsData\\AppOwnsData.csproj|d:\\devendra_solanke\\powerbi.net\\embed for your customers\\embed for your customers\\appownsdata\\views\\home\\embedreport.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{272D6B69-0644-477B-AAB8-51C71E54E208}|AppOwnsData\\AppOwnsData.csproj|solutionrelative:appownsdata\\views\\home\\embedreport.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{272D6B69-0644-477B-AAB8-51C71E54E208}|AppOwnsData\\AppOwnsData.csproj|d:\\devendra_solanke\\powerbi.net\\embed for your customers\\embed for your customers\\appownsdata\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{272D6B69-0644-477B-AAB8-51C71E54E208}|AppOwnsData\\AppOwnsData.csproj|solutionrelative:appownsdata\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{272D6B69-0644-477B-AAB8-51C71E54E208}|AppOwnsData\\AppOwnsData.csproj|d:\\devendra_solanke\\powerbi.net\\embed for your customers\\embed for your customers\\appownsdata\\views\\admin\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{272D6B69-0644-477B-AAB8-51C71E54E208}|AppOwnsData\\AppOwnsData.csproj|solutionrelative:appownsdata\\views\\admin\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{272D6B69-0644-477B-AAB8-51C71E54E208}|AppOwnsData\\AppOwnsData.csproj|d:\\devendra_solanke\\powerbi.net\\embed for your customers\\embed for your customers\\appownsdata\\views\\admin\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{272D6B69-0644-477B-AAB8-51C71E54E208}|AppOwnsData\\AppOwnsData.csproj|solutionrelative:appownsdata\\views\\admin\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{272D6B69-0644-477B-AAB8-51C71E54E208}|AppOwnsData\\AppOwnsData.csproj|d:\\devendra_solanke\\powerbi.net\\embed for your customers\\embed for your customers\\appownsdata\\models\\commonutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{272D6B69-0644-477B-AAB8-51C71E54E208}|AppOwnsData\\AppOwnsData.csproj|solutionrelative:appownsdata\\models\\commonutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{272D6B69-0644-477B-AAB8-51C71E54E208}|AppOwnsData\\AppOwnsData.csproj|d:\\devendra_solanke\\powerbi.net\\embed for your customers\\embed for your customers\\appownsdata\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{272D6B69-0644-477B-AAB8-51C71E54E208}|AppOwnsData\\AppOwnsData.csproj|solutionrelative:appownsdata\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{272D6B69-0644-477B-AAB8-51C71E54E208}|AppOwnsData\\AppOwnsData.csproj|d:\\devendra_solanke\\powerbi.net\\embed for your customers\\embed for your customers\\appownsdata\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{272D6B69-0644-477B-AAB8-51C71E54E208}|AppOwnsData\\AppOwnsData.csproj|solutionrelative:appownsdata\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{272D6B69-0644-477B-AAB8-51C71E54E208}|AppOwnsData\\AppOwnsData.csproj|d:\\devendra_solanke\\powerbi.net\\embed for your customers\\embed for your customers\\appownsdata\\models\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{272D6B69-0644-477B-AAB8-51C71E54E208}|AppOwnsData\\AppOwnsData.csproj|solutionrelative:appownsdata\\models\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Devendra_Solanke\\PowerBI.NET\\Embed for your customers\\Embed for your customers\\AppOwnsData\\Views\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "AppOwnsData\\Views\\Admin\\Index.cshtml",
+              "ToolTip": "D:\\Devendra_Solanke\\PowerBI.NET\\Embed for your customers\\Embed for your customers\\AppOwnsData\\Views\\Admin\\Index.cshtml",
+              "RelativeToolTip": "AppOwnsData\\Views\\Admin\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-12T06:09:28.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Devendra_Solanke\\PowerBI.NET\\Embed for your customers\\Embed for your customers\\AppOwnsData\\Views\\Admin\\Edit.cshtml",
+              "RelativeDocumentMoniker": "AppOwnsData\\Views\\Admin\\Edit.cshtml",
+              "ToolTip": "D:\\Devendra_Solanke\\PowerBI.NET\\Embed for your customers\\Embed for your customers\\AppOwnsData\\Views\\Admin\\Edit.cshtml",
+              "RelativeToolTip": "AppOwnsData\\Views\\Admin\\Edit.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-12T06:09:22.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Devendra_Solanke\\PowerBI.NET\\Embed for your customers\\Embed for your customers\\AppOwnsData\\Views\\Admin\\Create.cshtml",
+              "RelativeDocumentMoniker": "AppOwnsData\\Views\\Admin\\Create.cshtml",
+              "ToolTip": "D:\\Devendra_Solanke\\PowerBI.NET\\Embed for your customers\\Embed for your customers\\AppOwnsData\\Views\\Admin\\Create.cshtml",
+              "RelativeToolTip": "AppOwnsData\\Views\\Admin\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-12T06:09:16.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmbedReport.cshtml",
+              "DocumentMoniker": "D:\\Devendra_Solanke\\PowerBI.NET\\Embed for your customers\\Embed for your customers\\AppOwnsData\\Views\\Home\\EmbedReport.cshtml",
+              "RelativeDocumentMoniker": "AppOwnsData\\Views\\Home\\EmbedReport.cshtml",
+              "ToolTip": "D:\\Devendra_Solanke\\PowerBI.NET\\Embed for your customers\\Embed for your customers\\AppOwnsData\\Views\\Home\\EmbedReport.cshtml",
+              "RelativeToolTip": "AppOwnsData\\Views\\Home\\EmbedReport.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-12T06:09:08.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Devendra_Solanke\\PowerBI.NET\\Embed for your customers\\Embed for your customers\\AppOwnsData\\Views\\Reports\\Edit.cshtml",
+              "RelativeDocumentMoniker": "AppOwnsData\\Views\\Reports\\Edit.cshtml",
+              "ToolTip": "D:\\Devendra_Solanke\\PowerBI.NET\\Embed for your customers\\Embed for your customers\\AppOwnsData\\Views\\Reports\\Edit.cshtml",
+              "RelativeToolTip": "AppOwnsData\\Views\\Reports\\Edit.cshtml",
+              "ViewState": "AgIAAP8AAAAANDMzMzMbwBYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-12T06:08:58.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Devendra_Solanke\\PowerBI.NET\\Embed for your customers\\Embed for your customers\\AppOwnsData\\Views\\Reports\\Create.cshtml",
+              "RelativeDocumentMoniker": "AppOwnsData\\Views\\Reports\\Create.cshtml",
+              "ToolTip": "D:\\Devendra_Solanke\\PowerBI.NET\\Embed for your customers\\Embed for your customers\\AppOwnsData\\Views\\Reports\\Create.cshtml",
+              "RelativeToolTip": "AppOwnsData\\Views\\Reports\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-12T06:08:51.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ResetPassword.cshtml",
+              "DocumentMoniker": "D:\\Devendra_Solanke\\PowerBI.NET\\Embed for your customers\\Embed for your customers\\AppOwnsData\\Views\\Login\\ResetPassword.cshtml",
+              "RelativeDocumentMoniker": "AppOwnsData\\Views\\Login\\ResetPassword.cshtml",
+              "ToolTip": "D:\\Devendra_Solanke\\PowerBI.NET\\Embed for your customers\\Embed for your customers\\AppOwnsData\\Views\\Login\\ResetPassword.cshtml",
+              "RelativeToolTip": "AppOwnsData\\Views\\Login\\ResetPassword.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-12T06:08:19.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CommonUtility.cs",
+              "DocumentMoniker": "D:\\Devendra_Solanke\\PowerBI.NET\\Embed for your customers\\Embed for your customers\\AppOwnsData\\Models\\CommonUtility.cs",
+              "RelativeDocumentMoniker": "AppOwnsData\\Models\\CommonUtility.cs",
+              "ToolTip": "D:\\Devendra_Solanke\\PowerBI.NET\\Embed for your customers\\Embed for your customers\\AppOwnsData\\Models\\CommonUtility.cs",
+              "RelativeToolTip": "AppOwnsData\\Models\\CommonUtility.cs",
+              "ViewState": "AgIAADAAAAAQAAAAAAAwwHEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T05:30:02.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Devendra_Solanke\\PowerBI.NET\\Embed for your customers\\Embed for your customers\\AppOwnsData\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "AppOwnsData\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Devendra_Solanke\\PowerBI.NET\\Embed for your customers\\Embed for your customers\\AppOwnsData\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "AppOwnsData\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T04:58:28.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "D:\\Devendra_Solanke\\PowerBI.NET\\Embed for your customers\\Embed for your customers\\AppOwnsData\\Models\\TokenService.cs",
+              "RelativeDocumentMoniker": "AppOwnsData\\Models\\TokenService.cs",
+              "ToolTip": "D:\\Devendra_Solanke\\PowerBI.NET\\Embed for your customers\\Embed for your customers\\AppOwnsData\\Models\\TokenService.cs",
+              "RelativeToolTip": "AppOwnsData\\Models\\TokenService.cs",
+              "ViewState": "AgIAAAMAAACAzMzMzAwswBUAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T04:43:55.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "D:\\Devendra_Solanke\\PowerBI.NET\\Embed for your customers\\Embed for your customers\\AppOwnsData\\Startup.cs",
+              "RelativeDocumentMoniker": "AppOwnsData\\Startup.cs",
+              "ToolTip": "D:\\Devendra_Solanke\\PowerBI.NET\\Embed for your customers\\Embed for your customers\\AppOwnsData\\Startup.cs",
+              "RelativeToolTip": "AppOwnsData\\Startup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T04:40:34.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\Devendra_Solanke\\PowerBI.NET\\Embed for your customers\\Embed for your customers\\AppOwnsData\\Web.config",
+              "RelativeDocumentMoniker": "AppOwnsData\\Web.config",
+              "ToolTip": "D:\\Devendra_Solanke\\PowerBI.NET\\Embed for your customers\\Embed for your customers\\AppOwnsData\\Web.config",
+              "RelativeToolTip": "AppOwnsData\\Web.config",
+              "ViewState": "AgIAAB0AAADAmZmZmZkuwDcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-11-10T10:10:59.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "D:\\Devendra_Solanke\\PowerBI.NET\\Embed for your customers\\Embed for your customers\\AppOwnsData\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "AppOwnsData\\Controllers\\LoginController.cs",
+              "ToolTip": "D:\\Devendra_Solanke\\PowerBI.NET\\Embed for your customers\\Embed for your customers\\AppOwnsData\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "AppOwnsData\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T06:16:49.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "D:\\Devendra_Solanke\\PowerBI.NET\\Embed for your customers\\Embed for your customers\\AppOwnsData\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "AppOwnsData\\Controllers\\AdminController.cs",
+              "ToolTip": "D:\\Devendra_Solanke\\PowerBI.NET\\Embed for your customers\\Embed for your customers\\AppOwnsData\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "AppOwnsData\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwAAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T05:34:40.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ReportsController.cs",
+              "DocumentMoniker": "D:\\Devendra_Solanke\\PowerBI.NET\\Embed for your customers\\Embed for your customers\\AppOwnsData\\Controllers\\ReportsController.cs",
+              "RelativeDocumentMoniker": "AppOwnsData\\Controllers\\ReportsController.cs",
+              "ToolTip": "D:\\Devendra_Solanke\\PowerBI.NET\\Embed for your customers\\Embed for your customers\\AppOwnsData\\Controllers\\ReportsController.cs",
+              "RelativeToolTip": "AppOwnsData\\Controllers\\ReportsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T04:16:22.998Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

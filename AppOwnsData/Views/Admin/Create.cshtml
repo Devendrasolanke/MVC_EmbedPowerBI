@@ -1,0 +1,291 @@
+﻿@model AppOwnsData.Models.UserAccessMaster
+
+@{
+    ViewBag.Title = "Create User";
+    Layout = null;
+
+    var reportList = ViewBag.ReportList as System.Data.DataTable;   // ✅ report dropdown data
+}
+
+<style>
+    body {
+        background: linear-gradient(to right, #094780 0%, #094780 40%, #f5f9ff 60%, #f5f9ff 100%);
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        margin: 0;
+        padding: 0;
+        height: 100vh;
+        overflow: hidden;
+    }
+
+    .container-flex {
+        display: flex;
+        height: 100vh;
+    }
+
+    /* Sidebar */
+    .sidebar {
+        width: 200px;
+        background-color: #094780;
+        color: white;
+        display: flex;
+        flex-direction: column;
+        padding: 15px;
+        box-shadow: 2px 0 10px rgba(0,0,0,0.15);
+    }
+
+        .sidebar h3 {
+            text-align: center;
+            margin-bottom: 20px;
+            font-weight: 700;
+            font-size: 18px;
+        }
+
+    .sidebar-item {
+        padding: 10px 12px;
+        margin-bottom: 6px;
+        border-radius: 6px;
+        cursor: pointer;
+        transition: 0.2s;
+        background-color: rgba(255,255,255,0.15);
+        font-size: 14px;
+        font-weight: 500;
+    }
+
+        .sidebar-item:hover,
+        .sidebar-item.active {
+            background-color: rgba(255,255,255,0.35);
+        }
+
+    /* Content Area */
+    .content {
+        flex-grow: 1;
+        padding: 30px 40px;
+        position: relative;
+        overflow-y: auto;
+    }
+
+    /* Top right user */
+    .top-bar {
+        position: absolute;
+        top: 20px;
+        right: 25px;
+    }
+
+    .logout-btn {
+        background-color: #dc3545;
+        color: white;
+        border: none;
+        padding: 7px 16px;
+        border-radius: 6px;
+        font-weight: 500;
+        cursor: pointer;
+    }
+
+    h2 {
+        color: #094780;
+        font-weight: 700;
+        margin-bottom: 25px;
+        margin-top: 10px;
+    }
+
+    /* Form Card */
+    .form-card {
+        background: white;
+        padding: 25px 30px;
+        border-radius: 12px;
+        box-shadow: 0 6px 20px rgba(0,0,0,0.12);
+        max-width: 550px;
+    }
+
+    label {
+        font-weight: 600;
+        margin-bottom: 6px;
+        color: #094780;
+    }
+
+    .form-control {
+        border-radius: 6px;
+        padding: 8px;
+        border: 1px solid #bbb;
+        font-size: 14px;
+        width: 100%;
+    }
+
+    .btn-primary-custom {
+        background-color: #0d6efd;
+        color: white;
+        border: none;
+        padding: 8px 18px;
+        border-radius: 6px;
+        font-size: 14px;
+        margin-top: 10px;
+    }
+
+    .btn-secondary-custom {
+        background-color: #6c757d;
+        color: white;
+        padding: 8px 18px;
+        border-radius: 6px;
+        margin-top: 10px;
+    }
+
+    /* Popup overlay */
+    .center-popup {
+        position: fixed;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        background: rgba(0,0,0,0.45);
+        display: none;
+        justify-content: center;
+        align-items: center;
+        z-index: 5000;
+        animation: fadeInScale 0.3s ease-out;
+    }
+
+        .center-popup .popup-content {
+            background: white;
+            padding: 25px 35px;
+            border-radius: 12px;
+            font-size: 18px;
+            font-weight: 600;
+            text-align: center;
+            box-shadow: 0px 6px 20px rgba(0,0,0,0.25);
+            min-width: 280px;
+        }
+
+        .center-popup.success .popup-content {
+            background-color: #28a745;
+            color: #fff;
+        }
+
+        .center-popup.error .popup-content {
+            background-color: #dc3545;
+            color: #fff;
+        }
+
+    /* ✅ FIX: Razor needs only 1 */
+    @@keyframes fadeInScale {
+        from {
+            opacity: 0;
+        }
+
+        to {
+            opacity: 1;
+        }
+    }
+
+    @@keyframes popIn {
+        from {
+            transform: scale(0.7);
+            opacity: 0;
+        }
+
+        to {
+            transform: scale(1);
+            opacity: 1;
+        }
+    }
+</style>
+
+<div class="container-flex">
+
+    <!-- ✅ Sidebar -->
+    <div class="sidebar">
+        <h3>Admin Panel</h3>
+
+        <div class="sidebar-item active" onclick="window.location.href='/Admin/Index'">👥 Manage Users</div>
+    </div>
+
+    <!-- ✅ Main Content -->
+    <div class="content">
+
+        <!-- ✅ Top-right User info -->
+        <div class="top-bar">
+            <span style="margin-right: 15px; font-weight: 500; color: #094780;">
+                👤 @Session["UserID"]
+            </span>
+
+            <form action="/Login/Logout" method="post" style="display:inline;">
+                <button class="logout-btn">Logout</button>
+            </form>
+        </div>
+
+        <h2>Create New User</h2>
+
+        <!-- ✅ Form Card -->
+        <div class="form-card">
+
+            <form method="post" action="@Url.Action("Create", "Admin")">
+
+                <!-- ✅ User Email -->
+                <div class="form-group">
+                    <label>User Email</label>
+                    <input type="email" name="UserEmail" class="form-control" required />
+                </div>
+
+                <!-- ✅ Access Report (DROPDOWN mandatory) -->
+                <div class="form-group mt-3">
+                    <label>Access Report</label>
+                    <select name="RepID" class="form-control" required>
+                        <option value="">-- Select Report --</option>
+
+                        @if (reportList != null)
+                        {
+                            foreach (System.Data.DataRow row in reportList.Rows)
+                            {
+                                <option value="@row["RepID"]">@row["ReportName"]</option>
+                            }
+                        }
+                    </select>
+                </div>
+
+                <!-- ✅ Plant -->
+                <div class="form-group mt-3">
+                    <label>Plant</label>
+                    <input type="text" name="Plant" class="form-control" required />
+                </div>
+
+                <!-- ✅ Active -->
+                <div class="form-group mt-3">
+                    <label>Active</label>
+                    <select name="Active" class="form-control" required>
+                        <option value="">-- Select Status --</option>
+                        <option value="Y">Yes</option>
+                        <option value="N">No</option>
+                    </select>
+                </div>
+
+                <button type="submit" class="btn-primary-custom">Save</button>
+                <a href="/Admin/Index" class="btn-secondary-custom">Back</a>
+
+            </form>
+
+        </div>
+
+    </div>
+
+</div>
+
+<!-- ✅ POPUP (success/error) -->
+@if (TempData["popupMessage"] != null)
+{
+    <div id="centerPopup" class="center-popup @(TempData["popupType"])">
+        <div class="popup-content">
+            <span>@TempData["popupMessage"]</span>
+        </div>
+    </div>
+
+    <script>
+        window.onload = function () {
+            const popup = document.getElementById("centerPopup");
+            popup.style.display = "flex";
+
+            setTimeout(() => {
+                popup.style.opacity = "0";
+                setTimeout(() => popup.style.display = "none", 400);
+            }, 2500);
+        };
+    </script>
+}

@@ -1,0 +1,278 @@
+﻿@model AppOwnsData.Models.LoginModel
+@{
+    ViewBag.Title = "Login";
+}
+
+<style>
+    body {
+        background: linear-gradient(to right, #094780 0%, #094780 40%, #f5f9ff 60%, #f5f9ff 100%);
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        height: 100vh;
+        margin: 0;
+    }
+
+        /* ✅ WRAPPER SPLIT LEFT + RIGHT */
+        .split-wrapper {
+            display: flex;
+            height: 100vh;
+            width: 100%;
+        }
+
+        /* ✅ Left logo section */
+        .left-logo {
+            flex: 1;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+            .left-logo img {
+                width: 100%;
+                max-width: 350px;
+                animation: fadeIn 0.8s ease-in-out;
+            }
+
+        /* ✅ Right login card section */
+        .right-login {
+            flex: 1;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            padding-right: 10px;
+        }
+
+        .login-card {
+            background-color: #094780;
+            border-radius: 20px;
+            box-shadow: 0 6px 25px rgba(0, 0, 0, 0.12);
+            padding: 40px 35px 45px 35px;
+            width: 100%;
+            max-width: 400px;
+            animation: fadeIn 0.6s ease-in-out;
+        }
+
+        .left-login-card {
+            background-color: #f5f9ff;
+            border-radius: 20px;
+            box-shadow: 0 6px 25px rgba(0, 0, 0, 0.12);
+            padding: 40px 35px 45px 35px;
+            width: 100%;
+            max-width: 400px;
+            animation: fadeIn 0.6s ease-in-out;
+        }
+
+        .login-card h3 {
+            color: #094780;
+            font-weight: 700;
+            margin-bottom: 20px;
+            text-align: center;
+        }
+
+        .form-group {
+            margin-bottom: 20px;
+            width: 100%;
+        }
+
+        .form-label {
+            display: block;
+            font-weight: 600;
+            color: #ffffff;
+            margin-bottom: 5px;
+            text-align: left;
+        }
+
+        .form-control {
+            width: 100%;
+            border-radius: 10px;
+            border: 1px solid #ccc;
+            height: 42px;
+            font-size: 15px;
+            padding: 8px 12px;
+            box-sizing: border-box;
+        }
+
+            .form-control:focus {
+                border-color: #0d6efd;
+                outline: none;
+                box-shadow: 0 0 4px rgba(13, 110, 253, 0.3);
+            }
+
+        .btn-primary {
+            border-radius: 10px;
+            width: 100%;
+            padding: 10px 0;
+            font-size: 16px;
+            font-weight: 600;
+            background-color: #0b5ed7;
+            border: none;
+            transition: background-color 0.2s ease-in-out;
+            display: block;
+            color: white !important;
+        }
+
+            .btn-primary:hover {
+                background-color: #0b5ed1;
+            }
+
+        .error-message {
+            color: #dc3545;
+            font-weight: 600;
+            text-align: center;
+            margin-top: 10px;
+            font-size: 14px;
+        }
+
+        keyframes fadeIn {
+            from
+
+        {
+            opacity: 0;
+            transform: translateY(-15px);
+        }
+
+        to {
+            opacity: 1;
+            transform: translateY(0);
+        }
+
+        }
+
+        /* ✅ Power BI Branding */
+        .powerbi-header {
+            display: flex;
+            align-items: center;
+            margin-bottom: 15px;
+            margin-left: 70px;
+            animation: fadeIn 0.8s ease-in-out;
+        }
+
+            .powerbi-header img {
+                width: 45px;
+                height: auto;
+                margin-right: 10px;
+            }
+
+            .powerbi-header span {
+                font-size: 20px;
+                font-weight: 700;
+                color: #ffc107; /* ✅ Power BI Yellow */
+                letter-spacing: 1px;
+            }
+
+        @@keyframes spin {
+      0%   { transform: rotate(0deg); }
+      100% { transform: rotate(360deg); }
+    }
+
+    /* vendor-prefixed too (Razor-safe) */
+    @@-webkit-keyframes spin {
+      0%   { -webkit-transform: rotate(0deg); }
+      100% { -webkit-transform: rotate(360deg); }
+    }
+</style>
+
+<div id="loaderOverlay" style="
+    position: fixed;
+    top: 0; left: 0; right: 0; bottom: 0;
+    background: rgba(0,0,0,0.45);
+    display: none;
+    justify-content: center;
+    align-items: center;
+    z-index: 9999;">
+    <div id="loaderSpinner" style="
+        width: 80px;
+        height: 80px;
+        border-radius: 50%;
+        border: 10px solid #f3f3f3;
+        border-top: 10px solid #ffc107;
+        box-sizing: border-box;
+        -webkit-box-sizing: border-box;
+        -moz-box-sizing: border-box;
+        animation: spin 1s linear infinite;
+        -webkit-animation: spin 1s linear infinite;
+        -moz-animation: spin 1s linear infinite;
+    "></div>
+</div>
+
+<div class="split-wrapper">
+
+    <!-- ✅ LEFT LOGO -->
+    <div class="right-login">
+        <div class="left-login-card">
+            <br />
+            <br />
+            <br />
+            <div class="left-logo">
+                <img src="~/Content/Images/white_tatalogo.png" alt="Logo" />
+            </div>
+            <br />
+            <br />
+        </div>
+    </div>
+
+    <!-- ✅ RIGHT LOGIN CARD -->
+    <div class="right-login">
+        <div class="login-card">
+
+            <!-- ✅ POWER BI BRANDING -->
+            <div class="powerbi-header">
+                <img src="~/Content/Images/icon-power-bi.png" alt="Power BI Logo" />
+                <span>PowerBI Reports</span>
+            </div>
+
+            @*<h3 style="color: #ffffff;">🔐 Login</h3>*@
+
+            @using (Html.BeginForm("Index", "Login", FormMethod.Post))
+            {
+                <div class="form-group">
+                    @Html.LabelFor(m => m.UserID, "Email ID", new { @class = "form-label" })
+                    @Html.TextBoxFor(m => m.UserID, new { @class = "form-control", placeholder = "Enter your Email ID" })
+                </div>
+
+                <div class="form-group">
+                    @Html.LabelFor(m => m.Password, "Password", new { @class = "form-label" })
+                    @Html.PasswordFor(m => m.Password, new { @class = "form-control", placeholder = "Enter your password" })
+                </div>
+
+                if (Model != null && !string.IsNullOrEmpty(Model.ErrorMessage))
+                {
+                    <div class="error-message">@Model.ErrorMessage</div>
+                }
+
+                <br />
+                <button type="submit" class="btn btn-primary mt-3">Login</button>
+            }
+        </div>
+    </div>
+
+</div>
+
+<script>
+    document.addEventListener("DOMContentLoaded", function () {
+        // find the login form on the page (adjust selector if you have multiple forms)
+        var form = document.querySelector("form"); // or document.getElementById("yourFormId")
+        var loader = document.getElementById("loaderOverlay");
+
+        // try to also find a submit button to disable it while loading
+        var submitBtn = form ? form.querySelector('button[type="submit"], input[type="submit"]') : null;
+
+        if (form) {
+            form.addEventListener("submit", function (e) {
+                // show loader
+                if (loader) loader.style.display = "flex";
+
+                // disable submit button to prevent double submit
+                if (submitBtn) {
+                    submitBtn.disabled = true;
+                    // optional: add a visual cue
+                    submitBtn.dataset._origText = submitBtn.innerText || submitBtn.value || "";
+                    try {
+                        submitBtn.innerText = "Please wait...";
+                    } catch (err) { /* ignore if input element */ }
+                }
+
+                // NOTE: do NOT prevent default — we want the form to post and the server response to replace the page.
+            });
+        }
+    });
+</script>

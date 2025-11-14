@@ -1,0 +1,300 @@
+﻿@model AppOwnsData.Models.UserAccessMaster
+
+@{
+    ViewBag.Title = "Edit User";
+    Layout = null;
+
+    var reportList = ViewBag.ReportList as System.Data.DataTable;   // ✅ report dropdown data
+}
+
+<style>
+    body {
+        background-color: #f5f9ff;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        margin: 0;
+        padding: 0;
+        height: 100vh;
+        overflow: hidden;
+    }
+
+    .container-flex {
+        display: flex;
+        height: 100vh;
+    }
+
+    .sidebar {
+        width: 200px;
+        background-color: #094780;
+        color: white;
+        padding: 15px;
+        display: flex;
+        flex-direction: column;
+        box-shadow: 2px 0 10px rgba(0,0,0,0.15);
+    }
+
+    .sidebar-item {
+        padding: 10px 12px;
+        margin-bottom: 6px;
+        border-radius: 6px;
+        cursor: pointer;
+        transition: 0.2s;
+        background-color: rgba(255,255,255,0.15);
+        font-size: 14px;
+        font-weight: 500;
+    }
+
+        .sidebar-item:hover,
+        .sidebar-item.active {
+            background-color: rgba(255,255,255,0.35);
+        }
+
+    .content {
+        flex-grow: 1;
+        padding: 30px 40px;
+        overflow-y: auto;
+        position: relative;
+    }
+
+    .top-bar {
+        position: absolute;
+        top: 20px;
+        right: 25px;
+        display: flex;
+        align-items: center;
+        gap: 12px;
+    }
+
+    /* ✅ Added same Logout button format as other views */
+    .logout-btn {
+        background-color: #dc3545;
+        color: white;
+        border: none;
+        padding: 7px 16px;
+        border-radius: 6px;
+        font-weight: 500;
+        cursor: pointer;
+        transition: 0.25s;
+    }
+
+        .logout-btn:hover {
+            background-color: #b02a37;
+        }
+
+    .form-card {
+        background: white;
+        padding: 25px 30px;
+        border-radius: 12px;
+        max-width: 550px;
+        box-shadow: 0 6px 20px rgba(0,0,0,0.12);
+    }
+
+    label {
+        font-weight: 600;
+        color: #094780;
+    }
+
+    .form-control {
+        width: 100%;
+        border-radius: 6px;
+        padding: 8px;
+        border: 1px solid #bbb;
+        font-size: 14px;
+    }
+
+    /* ✅ EXACT SAME BUTTON STYLES AS CREATE USER */
+    .btn-primary-custom {
+        background-color: #0d6efd;
+        color: white;
+        border: none;
+        padding: 8px 18px;
+        border-radius: 6px;
+        font-size: 14px;
+        margin-top: 10px;
+        cursor: pointer;
+    }
+
+        .btn-primary-custom:hover {
+            background-color: #0b5ed7;
+        }
+
+    .btn-secondary-custom {
+        background-color: #6c757d;
+        color: white;
+        padding: 8px 18px;
+        border-radius: 6px;
+        border: none;
+        margin-top: 10px;
+        cursor: pointer;
+    }
+
+        .btn-secondary-custom:hover {
+            background-color: #5a6268;
+        }
+
+    /* Popup overlay */
+    .center-popup {
+        position: fixed;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        background: rgba(0,0,0,0.45);
+        display: none;
+        justify-content: center;
+        align-items: center;
+        z-index: 5000;
+        animation: fadeInScale 0.3s ease-out;
+    }
+
+        .center-popup .popup-content {
+            background: white;
+            padding: 25px 35px;
+            border-radius: 12px;
+            font-size: 18px;
+            font-weight: 600;
+            text-align: center;
+            box-shadow: 0px 6px 20px rgba(0,0,0,0.25);
+            min-width: 280px;
+        }
+
+        .center-popup.success .popup-content {
+            background-color: #28a745;
+            color: #fff;
+        }
+
+        .center-popup.error .popup-content {
+            background-color: #dc3545;
+            color: #fff;
+        }
+
+    /* ✅ FIX: Razor needs only 1 */
+    @@keyframes fadeInScale {
+        from {
+            opacity: 0;
+        }
+
+        to {
+            opacity: 1;
+        }
+    }
+
+    @@keyframes popIn {
+        from {
+            transform: scale(0.7);
+            opacity: 0;
+        }
+
+        to {
+            transform: scale(1);
+            opacity: 1;
+        }
+    }
+</style>
+
+<!-- ✅ POPUP (success/error) -->
+@if (TempData["popupMessage"] != null)
+{
+    <div id="centerPopup" class="center-popup @(TempData["popupType"])">
+        <div class="popup-content">
+            <span>@TempData["popupMessage"]</span>
+        </div>
+    </div>
+
+    <script>
+        window.onload = function () {
+
+            const popup = document.getElementById("centerPopup");
+            popup.style.display = "flex";
+
+            // ✅ Fade out after 2.5 seconds
+            setTimeout(() => {
+                popup.style.opacity = "0";
+
+                setTimeout(() => {
+                    popup.style.display = "none";
+
+                    // ✅ Redirect to Index AFTER popup animation
+                    window.location.href = '@TempData["popupRedirect"]';
+
+                }, 400);
+
+            }, 2500);
+        };
+    </script>
+}
+
+<div class="container-flex">
+
+    <div class="sidebar">
+        <h3>Admin Panel</h3>
+        <div class="sidebar-item active" onclick="window.location.href='/Admin/Index'">
+            👥 Manage Users
+        </div>
+    </div>
+
+    <div class="content">
+
+        <!-- ✅ Same logout button format -->
+        <div class="top-bar">
+            <span style="font-weight: 500; color: #094780;">👤 @Session["UserID"]</span>
+
+            <form action="/Login/Logout" method="post" style="display:inline;">
+                <button class="logout-btn">Logout</button>
+            </form>
+        </div>
+
+        <h2>Edit User</h2>
+
+        <div class="form-card">
+
+            <form method="post" action="@Url.Action("Edit", "Admin")">
+
+                <input type="hidden" name="SrNo" value="@Model.SrNo" />
+
+                <div class="form-group">
+                    <label>User Email</label>
+                    <input type="email" name="UserEmail" value="@Model.UserEmail" class="form-control" required />
+                </div>
+
+                <div class="form-group mt-3">
+                    <label>Access Report</label>
+                    <select name="RepID" class="form-control" required>
+                        <option value="">-- Select Report --</option>
+
+                        @if (reportList != null)
+                        {
+                            foreach (System.Data.DataRow row in reportList.Rows)
+                            {
+                                var repId = Convert.ToInt32(row["RepID"]);
+
+                                <option value="@repId" @(Model.RepID == repId ? "selected" : "")>
+                                    @row["ReportName"]
+                                </option>
+                            }
+                        }
+                    </select>
+                </div>
+
+                <div class="form-group mt-3">
+                    <label>Plant</label>
+                    <input type="text" name="Plant" value="@Model.Plant" class="form-control" required />
+                </div>
+
+                <div class="form-group mt-3">
+                    <label>Active</label>
+                    <select name="Active" class="form-control" required>
+                        <option value="Y" @(Model.Active == "Y" ? "selected" : "")>Yes</option>
+                        <option value="N" @(Model.Active == "N" ? "selected" : "")>No</option>
+                    </select>
+                </div>
+
+                <button type="submit" class="btn-primary-custom">Update</button>
+                <a href="/Admin/Index" class="btn-secondary-custom">Back</a>
+
+            </form>
+
+        </div>
+
+    </div>
+
+</div>

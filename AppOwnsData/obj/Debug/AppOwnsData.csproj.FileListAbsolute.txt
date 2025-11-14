@@ -1,0 +1,694 @@
+D:\2021\Power BI embedded\Embed for your customers\AppOwnsData\bin\AppOwnsData.dll.config
+D:\2021\Power BI embedded\Embed for your customers\AppOwnsData\bin\AppOwnsData.dll
+D:\2021\Power BI embedded\Embed for your customers\AppOwnsData\bin\AppOwnsData.pdb
+D:\2021\Power BI embedded\Embed for your customers\AppOwnsData\bin\roslyn\csc.exe
+D:\2021\Power BI embedded\Embed for your customers\AppOwnsData\bin\roslyn\csc.exe.config
+D:\2021\Power BI embedded\Embed for your customers\AppOwnsData\bin\roslyn\csc.rsp
+D:\2021\Power BI embedded\Embed for your customers\AppOwnsData\bin\roslyn\csi.exe
+D:\2021\Power BI embedded\Embed for your customers\AppOwnsData\bin\roslyn\csi.exe.config
+D:\2021\Power BI embedded\Embed for your customers\AppOwnsData\bin\roslyn\csi.rsp
+D:\2021\Power BI embedded\Embed for your customers\AppOwnsData\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\2021\Power BI embedded\Embed for your customers\AppOwnsData\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\2021\Power BI embedded\Embed for your customers\AppOwnsData\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\2021\Power BI embedded\Embed for your customers\AppOwnsData\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\2021\Power BI embedded\Embed for your customers\AppOwnsData\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\2021\Power BI embedded\Embed for your customers\AppOwnsData\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\2021\Power BI embedded\Embed for your customers\AppOwnsData\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\2021\Power BI embedded\Embed for your customers\AppOwnsData\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\2021\Power BI embedded\Embed for your customers\AppOwnsData\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\2021\Power BI embedded\Embed for your customers\AppOwnsData\bin\roslyn\Microsoft.Managed.Core.targets
+D:\2021\Power BI embedded\Embed for your customers\AppOwnsData\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\2021\Power BI embedded\Embed for your customers\AppOwnsData\bin\roslyn\System.Buffers.dll
+D:\2021\Power BI embedded\Embed for your customers\AppOwnsData\bin\roslyn\System.Collections.Immutable.dll
+D:\2021\Power BI embedded\Embed for your customers\AppOwnsData\bin\roslyn\System.Memory.dll
+D:\2021\Power BI embedded\Embed for your customers\AppOwnsData\bin\roslyn\System.Numerics.Vectors.dll
+D:\2021\Power BI embedded\Embed for your customers\AppOwnsData\bin\roslyn\System.Reflection.Metadata.dll
+D:\2021\Power BI embedded\Embed for your customers\AppOwnsData\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+D:\2021\Power BI embedded\Embed for your customers\AppOwnsData\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\2021\Power BI embedded\Embed for your customers\AppOwnsData\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\2021\Power BI embedded\Embed for your customers\AppOwnsData\bin\roslyn\vbc.exe
+D:\2021\Power BI embedded\Embed for your customers\AppOwnsData\bin\roslyn\vbc.exe.config
+D:\2021\Power BI embedded\Embed for your customers\AppOwnsData\bin\roslyn\vbc.rsp
+D:\2021\Power BI embedded\Embed for your customers\AppOwnsData\bin\roslyn\VBCSCompiler.exe
+D:\2021\Power BI embedded\Embed for your customers\AppOwnsData\bin\roslyn\VBCSCompiler.exe.config
+D:\2021\Power BI embedded\Embed for your customers\AppOwnsData\bin\Antlr3.Runtime.dll
+D:\2021\Power BI embedded\Embed for your customers\AppOwnsData\bin\EntityFramework.dll
+D:\2021\Power BI embedded\Embed for your customers\AppOwnsData\bin\EntityFramework.SqlServer.dll
+D:\2021\Power BI embedded\Embed for your customers\AppOwnsData\bin\Microsoft.AspNet.Identity.Core.dll
+D:\2021\Power BI embedded\Embed for your customers\AppOwnsData\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\2021\Power BI embedded\Embed for your customers\AppOwnsData\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\2021\Power BI embedded\Embed for your customers\AppOwnsData\bin\Microsoft.Identity.Client.dll
+D:\2021\Power BI embedded\Embed for your customers\AppOwnsData\bin\Microsoft.PowerBI.Api.dll
+D:\2021\Power BI embedded\Embed for your customers\AppOwnsData\bin\Microsoft.Rest.ClientRuntime.dll
+D:\2021\Power BI embedded\Embed for your customers\AppOwnsData\bin\Microsoft.Web.Infrastructure.dll
+D:\2021\Power BI embedded\Embed for your customers\AppOwnsData\bin\Newtonsoft.Json.dll
+D:\2021\Power BI embedded\Embed for your customers\AppOwnsData\bin\System.Security.Cryptography.Cng.dll
+D:\2021\Power BI embedded\Embed for your customers\AppOwnsData\bin\System.Web.Helpers.dll
+D:\2021\Power BI embedded\Embed for your customers\AppOwnsData\bin\System.Web.Mvc.dll
+D:\2021\Power BI embedded\Embed for your customers\AppOwnsData\bin\System.Web.Optimization.dll
+D:\2021\Power BI embedded\Embed for your customers\AppOwnsData\bin\System.Web.Razor.dll
+D:\2021\Power BI embedded\Embed for your customers\AppOwnsData\bin\System.Web.WebPages.Deployment.dll
+D:\2021\Power BI embedded\Embed for your customers\AppOwnsData\bin\System.Web.WebPages.dll
+D:\2021\Power BI embedded\Embed for your customers\AppOwnsData\bin\System.Web.WebPages.Razor.dll
+D:\2021\Power BI embedded\Embed for your customers\AppOwnsData\bin\WebGrease.dll
+D:\2021\Power BI embedded\Embed for your customers\AppOwnsData\bin\Antlr3.Runtime.pdb
+D:\2021\Power BI embedded\Embed for your customers\AppOwnsData\bin\EntityFramework.xml
+D:\2021\Power BI embedded\Embed for your customers\AppOwnsData\bin\EntityFramework.SqlServer.xml
+D:\2021\Power BI embedded\Embed for your customers\AppOwnsData\bin\Microsoft.AspNet.Identity.Core.xml
+D:\2021\Power BI embedded\Embed for your customers\AppOwnsData\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\2021\Power BI embedded\Embed for your customers\AppOwnsData\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\2021\Power BI embedded\Embed for your customers\AppOwnsData\bin\Microsoft.Identity.Client.xml
+D:\2021\Power BI embedded\Embed for your customers\AppOwnsData\bin\Newtonsoft.Json.xml
+D:\2021\Power BI embedded\Embed for your customers\AppOwnsData\bin\System.Security.Cryptography.Cng.xml
+D:\2021\Power BI embedded\Embed for your customers\AppOwnsData\bin\System.Web.Helpers.xml
+D:\2021\Power BI embedded\Embed for your customers\AppOwnsData\bin\System.Web.Mvc.xml
+D:\2021\Power BI embedded\Embed for your customers\AppOwnsData\bin\System.Web.Optimization.xml
+D:\2021\Power BI embedded\Embed for your customers\AppOwnsData\bin\System.Web.Razor.xml
+D:\2021\Power BI embedded\Embed for your customers\AppOwnsData\bin\System.Web.WebPages.xml
+D:\2021\Power BI embedded\Embed for your customers\AppOwnsData\bin\System.Web.WebPages.Deployment.xml
+D:\2021\Power BI embedded\Embed for your customers\AppOwnsData\bin\System.Web.WebPages.Razor.xml
+D:\2021\Power BI embedded\Embed for your customers\AppOwnsData\obj\Debug\AppOwnsData.csprojAssemblyReference.cache
+D:\2021\Power BI embedded\Embed for your customers\AppOwnsData\obj\Debug\AppOwnsData.csproj.CoreCompileInputs.cache
+D:\2021\Power BI embedded\Embed for your customers\AppOwnsData\obj\Debug\AppOwnsData.csproj.CopyComplete
+D:\2021\Power BI embedded\Embed for your customers\AppOwnsData\obj\Debug\AppOwnsData.dll
+D:\2021\Power BI embedded\Embed for your customers\AppOwnsData\obj\Debug\AppOwnsData.pdb
+D:\Projects-2021\Tech Series\January\1-PBIEmbedded\Power BI embedded\Embed for your customers\AppOwnsData\bin\AppOwnsData.dll.config
+D:\Projects-2021\Tech Series\January\1-PBIEmbedded\Power BI embedded\Embed for your customers\AppOwnsData\bin\AppOwnsData.dll
+D:\Projects-2021\Tech Series\January\1-PBIEmbedded\Power BI embedded\Embed for your customers\AppOwnsData\bin\AppOwnsData.pdb
+D:\Projects-2021\Tech Series\January\1-PBIEmbedded\Power BI embedded\Embed for your customers\AppOwnsData\bin\roslyn\csc.exe
+D:\Projects-2021\Tech Series\January\1-PBIEmbedded\Power BI embedded\Embed for your customers\AppOwnsData\bin\roslyn\csc.exe.config
+D:\Projects-2021\Tech Series\January\1-PBIEmbedded\Power BI embedded\Embed for your customers\AppOwnsData\bin\roslyn\csc.rsp
+D:\Projects-2021\Tech Series\January\1-PBIEmbedded\Power BI embedded\Embed for your customers\AppOwnsData\bin\roslyn\csi.exe
+D:\Projects-2021\Tech Series\January\1-PBIEmbedded\Power BI embedded\Embed for your customers\AppOwnsData\bin\roslyn\csi.exe.config
+D:\Projects-2021\Tech Series\January\1-PBIEmbedded\Power BI embedded\Embed for your customers\AppOwnsData\bin\roslyn\csi.rsp
+D:\Projects-2021\Tech Series\January\1-PBIEmbedded\Power BI embedded\Embed for your customers\AppOwnsData\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Projects-2021\Tech Series\January\1-PBIEmbedded\Power BI embedded\Embed for your customers\AppOwnsData\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Projects-2021\Tech Series\January\1-PBIEmbedded\Power BI embedded\Embed for your customers\AppOwnsData\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Projects-2021\Tech Series\January\1-PBIEmbedded\Power BI embedded\Embed for your customers\AppOwnsData\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Projects-2021\Tech Series\January\1-PBIEmbedded\Power BI embedded\Embed for your customers\AppOwnsData\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Projects-2021\Tech Series\January\1-PBIEmbedded\Power BI embedded\Embed for your customers\AppOwnsData\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Projects-2021\Tech Series\January\1-PBIEmbedded\Power BI embedded\Embed for your customers\AppOwnsData\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Projects-2021\Tech Series\January\1-PBIEmbedded\Power BI embedded\Embed for your customers\AppOwnsData\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Projects-2021\Tech Series\January\1-PBIEmbedded\Power BI embedded\Embed for your customers\AppOwnsData\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Projects-2021\Tech Series\January\1-PBIEmbedded\Power BI embedded\Embed for your customers\AppOwnsData\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Projects-2021\Tech Series\January\1-PBIEmbedded\Power BI embedded\Embed for your customers\AppOwnsData\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Projects-2021\Tech Series\January\1-PBIEmbedded\Power BI embedded\Embed for your customers\AppOwnsData\bin\roslyn\System.Buffers.dll
+D:\Projects-2021\Tech Series\January\1-PBIEmbedded\Power BI embedded\Embed for your customers\AppOwnsData\bin\roslyn\System.Collections.Immutable.dll
+D:\Projects-2021\Tech Series\January\1-PBIEmbedded\Power BI embedded\Embed for your customers\AppOwnsData\bin\roslyn\System.Memory.dll
+D:\Projects-2021\Tech Series\January\1-PBIEmbedded\Power BI embedded\Embed for your customers\AppOwnsData\bin\roslyn\System.Numerics.Vectors.dll
+D:\Projects-2021\Tech Series\January\1-PBIEmbedded\Power BI embedded\Embed for your customers\AppOwnsData\bin\roslyn\System.Reflection.Metadata.dll
+D:\Projects-2021\Tech Series\January\1-PBIEmbedded\Power BI embedded\Embed for your customers\AppOwnsData\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+D:\Projects-2021\Tech Series\January\1-PBIEmbedded\Power BI embedded\Embed for your customers\AppOwnsData\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Projects-2021\Tech Series\January\1-PBIEmbedded\Power BI embedded\Embed for your customers\AppOwnsData\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Projects-2021\Tech Series\January\1-PBIEmbedded\Power BI embedded\Embed for your customers\AppOwnsData\bin\roslyn\vbc.exe
+D:\Projects-2021\Tech Series\January\1-PBIEmbedded\Power BI embedded\Embed for your customers\AppOwnsData\bin\roslyn\vbc.exe.config
+D:\Projects-2021\Tech Series\January\1-PBIEmbedded\Power BI embedded\Embed for your customers\AppOwnsData\bin\roslyn\vbc.rsp
+D:\Projects-2021\Tech Series\January\1-PBIEmbedded\Power BI embedded\Embed for your customers\AppOwnsData\bin\roslyn\VBCSCompiler.exe
+D:\Projects-2021\Tech Series\January\1-PBIEmbedded\Power BI embedded\Embed for your customers\AppOwnsData\bin\roslyn\VBCSCompiler.exe.config
+D:\Projects-2021\Tech Series\January\1-PBIEmbedded\Power BI embedded\Embed for your customers\AppOwnsData\bin\Antlr3.Runtime.dll
+D:\Projects-2021\Tech Series\January\1-PBIEmbedded\Power BI embedded\Embed for your customers\AppOwnsData\bin\EntityFramework.dll
+D:\Projects-2021\Tech Series\January\1-PBIEmbedded\Power BI embedded\Embed for your customers\AppOwnsData\bin\EntityFramework.SqlServer.dll
+D:\Projects-2021\Tech Series\January\1-PBIEmbedded\Power BI embedded\Embed for your customers\AppOwnsData\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Projects-2021\Tech Series\January\1-PBIEmbedded\Power BI embedded\Embed for your customers\AppOwnsData\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Projects-2021\Tech Series\January\1-PBIEmbedded\Power BI embedded\Embed for your customers\AppOwnsData\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Projects-2021\Tech Series\January\1-PBIEmbedded\Power BI embedded\Embed for your customers\AppOwnsData\bin\Microsoft.Identity.Client.dll
+D:\Projects-2021\Tech Series\January\1-PBIEmbedded\Power BI embedded\Embed for your customers\AppOwnsData\bin\Microsoft.PowerBI.Api.dll
+D:\Projects-2021\Tech Series\January\1-PBIEmbedded\Power BI embedded\Embed for your customers\AppOwnsData\bin\Microsoft.Rest.ClientRuntime.dll
+D:\Projects-2021\Tech Series\January\1-PBIEmbedded\Power BI embedded\Embed for your customers\AppOwnsData\bin\Microsoft.Web.Infrastructure.dll
+D:\Projects-2021\Tech Series\January\1-PBIEmbedded\Power BI embedded\Embed for your customers\AppOwnsData\bin\Newtonsoft.Json.dll
+D:\Projects-2021\Tech Series\January\1-PBIEmbedded\Power BI embedded\Embed for your customers\AppOwnsData\bin\System.Security.Cryptography.Cng.dll
+D:\Projects-2021\Tech Series\January\1-PBIEmbedded\Power BI embedded\Embed for your customers\AppOwnsData\bin\System.Web.Helpers.dll
+D:\Projects-2021\Tech Series\January\1-PBIEmbedded\Power BI embedded\Embed for your customers\AppOwnsData\bin\System.Web.Mvc.dll
+D:\Projects-2021\Tech Series\January\1-PBIEmbedded\Power BI embedded\Embed for your customers\AppOwnsData\bin\System.Web.Optimization.dll
+D:\Projects-2021\Tech Series\January\1-PBIEmbedded\Power BI embedded\Embed for your customers\AppOwnsData\bin\System.Web.Razor.dll
+D:\Projects-2021\Tech Series\January\1-PBIEmbedded\Power BI embedded\Embed for your customers\AppOwnsData\bin\System.Web.WebPages.Deployment.dll
+D:\Projects-2021\Tech Series\January\1-PBIEmbedded\Power BI embedded\Embed for your customers\AppOwnsData\bin\System.Web.WebPages.dll
+D:\Projects-2021\Tech Series\January\1-PBIEmbedded\Power BI embedded\Embed for your customers\AppOwnsData\bin\System.Web.WebPages.Razor.dll
+D:\Projects-2021\Tech Series\January\1-PBIEmbedded\Power BI embedded\Embed for your customers\AppOwnsData\bin\WebGrease.dll
+D:\Projects-2021\Tech Series\January\1-PBIEmbedded\Power BI embedded\Embed for your customers\AppOwnsData\bin\Antlr3.Runtime.pdb
+D:\Projects-2021\Tech Series\January\1-PBIEmbedded\Power BI embedded\Embed for your customers\AppOwnsData\bin\EntityFramework.xml
+D:\Projects-2021\Tech Series\January\1-PBIEmbedded\Power BI embedded\Embed for your customers\AppOwnsData\bin\EntityFramework.SqlServer.xml
+D:\Projects-2021\Tech Series\January\1-PBIEmbedded\Power BI embedded\Embed for your customers\AppOwnsData\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Projects-2021\Tech Series\January\1-PBIEmbedded\Power BI embedded\Embed for your customers\AppOwnsData\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Projects-2021\Tech Series\January\1-PBIEmbedded\Power BI embedded\Embed for your customers\AppOwnsData\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Projects-2021\Tech Series\January\1-PBIEmbedded\Power BI embedded\Embed for your customers\AppOwnsData\bin\Microsoft.Identity.Client.xml
+D:\Projects-2021\Tech Series\January\1-PBIEmbedded\Power BI embedded\Embed for your customers\AppOwnsData\bin\Newtonsoft.Json.xml
+D:\Projects-2021\Tech Series\January\1-PBIEmbedded\Power BI embedded\Embed for your customers\AppOwnsData\bin\System.Security.Cryptography.Cng.xml
+D:\Projects-2021\Tech Series\January\1-PBIEmbedded\Power BI embedded\Embed for your customers\AppOwnsData\bin\System.Web.Helpers.xml
+D:\Projects-2021\Tech Series\January\1-PBIEmbedded\Power BI embedded\Embed for your customers\AppOwnsData\bin\System.Web.Mvc.xml
+D:\Projects-2021\Tech Series\January\1-PBIEmbedded\Power BI embedded\Embed for your customers\AppOwnsData\bin\System.Web.Optimization.xml
+D:\Projects-2021\Tech Series\January\1-PBIEmbedded\Power BI embedded\Embed for your customers\AppOwnsData\bin\System.Web.Razor.xml
+D:\Projects-2021\Tech Series\January\1-PBIEmbedded\Power BI embedded\Embed for your customers\AppOwnsData\bin\System.Web.WebPages.xml
+D:\Projects-2021\Tech Series\January\1-PBIEmbedded\Power BI embedded\Embed for your customers\AppOwnsData\bin\System.Web.WebPages.Deployment.xml
+D:\Projects-2021\Tech Series\January\1-PBIEmbedded\Power BI embedded\Embed for your customers\AppOwnsData\bin\System.Web.WebPages.Razor.xml
+D:\Projects-2021\Tech Series\January\1-PBIEmbedded\Power BI embedded\Embed for your customers\AppOwnsData\obj\Debug\AppOwnsData.csprojAssemblyReference.cache
+D:\Projects-2021\Tech Series\January\1-PBIEmbedded\Power BI embedded\Embed for your customers\AppOwnsData\obj\Debug\AppOwnsData.csproj.CoreCompileInputs.cache
+D:\Projects-2021\Tech Series\January\1-PBIEmbedded\Power BI embedded\Embed for your customers\AppOwnsData\obj\Debug\AppOwnsData.csproj.CopyComplete
+D:\Projects-2021\Tech Series\January\1-PBIEmbedded\Power BI embedded\Embed for your customers\AppOwnsData\obj\Debug\AppOwnsData.dll
+D:\Projects-2021\Tech Series\January\1-PBIEmbedded\Power BI embedded\Embed for your customers\AppOwnsData\obj\Debug\AppOwnsData.pdb
+C:\PBI-Embedded-ASP.NET-master\PBI-Embedded-ASP.NET-master\PBI-Embedded-App-Owns-Data\Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\obj\Debug\AppOwnsData.dll
+C:\PBI-Embedded-ASP.NET-master\PBI-Embedded-ASP.NET-master\PBI-Embedded-App-Owns-Data\Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\obj\Debug\AppOwnsData.pdb
+D:\PowerBI software\Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\AppOwnsData.dll.config
+D:\PowerBI software\Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\AppOwnsData.dll
+D:\PowerBI software\Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\AppOwnsData.pdb
+D:\PowerBI software\Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\roslyn\csc.exe
+D:\PowerBI software\Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\roslyn\csc.exe.config
+D:\PowerBI software\Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\roslyn\csc.rsp
+D:\PowerBI software\Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\roslyn\csi.exe
+D:\PowerBI software\Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\roslyn\csi.exe.config
+D:\PowerBI software\Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\roslyn\csi.rsp
+D:\PowerBI software\Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\PowerBI software\Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\PowerBI software\Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\PowerBI software\Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\PowerBI software\Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\PowerBI software\Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\PowerBI software\Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\PowerBI software\Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\PowerBI software\Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\PowerBI software\Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\roslyn\Microsoft.Managed.Core.targets
+D:\PowerBI software\Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\PowerBI software\Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\roslyn\System.Buffers.dll
+D:\PowerBI software\Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\roslyn\System.Collections.Immutable.dll
+D:\PowerBI software\Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\roslyn\System.Memory.dll
+D:\PowerBI software\Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\roslyn\System.Numerics.Vectors.dll
+D:\PowerBI software\Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\roslyn\System.Reflection.Metadata.dll
+D:\PowerBI software\Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+D:\PowerBI software\Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\PowerBI software\Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\PowerBI software\Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\roslyn\vbc.exe
+D:\PowerBI software\Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\roslyn\vbc.exe.config
+D:\PowerBI software\Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\roslyn\vbc.rsp
+D:\PowerBI software\Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\roslyn\VBCSCompiler.exe
+D:\PowerBI software\Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\roslyn\VBCSCompiler.exe.config
+D:\PowerBI software\Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\Antlr3.Runtime.dll
+D:\PowerBI software\Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\EntityFramework.dll
+D:\PowerBI software\Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\EntityFramework.SqlServer.dll
+D:\PowerBI software\Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\Microsoft.AspNet.Identity.Core.dll
+D:\PowerBI software\Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\PowerBI software\Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\PowerBI software\Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\Microsoft.Identity.Client.dll
+D:\PowerBI software\Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\Microsoft.PowerBI.Api.dll
+D:\PowerBI software\Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\Microsoft.Rest.ClientRuntime.dll
+D:\PowerBI software\Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\Microsoft.Web.Infrastructure.dll
+D:\PowerBI software\Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\Newtonsoft.Json.dll
+D:\PowerBI software\Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\System.Security.Cryptography.Cng.dll
+D:\PowerBI software\Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\System.Web.Helpers.dll
+D:\PowerBI software\Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\System.Web.Mvc.dll
+D:\PowerBI software\Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\System.Web.Optimization.dll
+D:\PowerBI software\Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\System.Web.Razor.dll
+D:\PowerBI software\Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\System.Web.WebPages.Deployment.dll
+D:\PowerBI software\Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\System.Web.WebPages.dll
+D:\PowerBI software\Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\System.Web.WebPages.Razor.dll
+D:\PowerBI software\Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\WebGrease.dll
+D:\PowerBI software\Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\Antlr3.Runtime.pdb
+D:\PowerBI software\Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\EntityFramework.xml
+D:\PowerBI software\Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\EntityFramework.SqlServer.xml
+D:\PowerBI software\Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\Microsoft.AspNet.Identity.Core.xml
+D:\PowerBI software\Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\PowerBI software\Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\PowerBI software\Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\Microsoft.Identity.Client.xml
+D:\PowerBI software\Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\Newtonsoft.Json.xml
+D:\PowerBI software\Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\System.Security.Cryptography.Cng.xml
+D:\PowerBI software\Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\System.Web.Helpers.xml
+D:\PowerBI software\Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\System.Web.Mvc.xml
+D:\PowerBI software\Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\System.Web.Optimization.xml
+D:\PowerBI software\Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\System.Web.Razor.xml
+D:\PowerBI software\Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\System.Web.WebPages.xml
+D:\PowerBI software\Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\System.Web.WebPages.Deployment.xml
+D:\PowerBI software\Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\System.Web.WebPages.Razor.xml
+D:\PowerBI software\Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\obj\Debug\AppOwnsData.csproj.AssemblyReference.cache
+D:\PowerBI software\Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\obj\Debug\AppOwnsData.csproj.CoreCompileInputs.cache
+D:\PowerBI software\Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\obj\Debug\AppOwnsData.csproj.CopyComplete
+D:\PowerBI software\Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\obj\Debug\AppOwnsData.dll
+D:\PowerBI software\Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\obj\Debug\AppOwnsData.pdb
+D:\APPOWNS\Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\AppOwnsData.dll.config
+D:\APPOWNS\Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\AppOwnsData.dll
+D:\APPOWNS\Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\AppOwnsData.pdb
+D:\APPOWNS\Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\roslyn\csc.exe
+D:\APPOWNS\Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\roslyn\csc.exe.config
+D:\APPOWNS\Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\roslyn\csc.rsp
+D:\APPOWNS\Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\roslyn\csi.exe
+D:\APPOWNS\Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\roslyn\csi.exe.config
+D:\APPOWNS\Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\roslyn\csi.rsp
+D:\APPOWNS\Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\APPOWNS\Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\APPOWNS\Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\APPOWNS\Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\APPOWNS\Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\APPOWNS\Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\APPOWNS\Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\APPOWNS\Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\APPOWNS\Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\APPOWNS\Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\roslyn\Microsoft.Managed.Core.targets
+D:\APPOWNS\Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\APPOWNS\Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\roslyn\System.Buffers.dll
+D:\APPOWNS\Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\roslyn\System.Collections.Immutable.dll
+D:\APPOWNS\Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\roslyn\System.Memory.dll
+D:\APPOWNS\Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\roslyn\System.Numerics.Vectors.dll
+D:\APPOWNS\Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\roslyn\System.Reflection.Metadata.dll
+D:\APPOWNS\Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+D:\APPOWNS\Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\APPOWNS\Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\APPOWNS\Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\roslyn\vbc.exe
+D:\APPOWNS\Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\roslyn\vbc.exe.config
+D:\APPOWNS\Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\roslyn\vbc.rsp
+D:\APPOWNS\Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\roslyn\VBCSCompiler.exe
+D:\APPOWNS\Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\roslyn\VBCSCompiler.exe.config
+D:\APPOWNS\Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\Antlr3.Runtime.dll
+D:\APPOWNS\Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\EntityFramework.dll
+D:\APPOWNS\Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\EntityFramework.SqlServer.dll
+D:\APPOWNS\Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\Microsoft.AspNet.Identity.Core.dll
+D:\APPOWNS\Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\APPOWNS\Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\APPOWNS\Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\Microsoft.Identity.Client.dll
+D:\APPOWNS\Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\Microsoft.PowerBI.Api.dll
+D:\APPOWNS\Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\Microsoft.Rest.ClientRuntime.dll
+D:\APPOWNS\Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\Microsoft.Web.Infrastructure.dll
+D:\APPOWNS\Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\Newtonsoft.Json.dll
+D:\APPOWNS\Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\System.Security.Cryptography.Cng.dll
+D:\APPOWNS\Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\System.Web.Helpers.dll
+D:\APPOWNS\Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\System.Web.Mvc.dll
+D:\APPOWNS\Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\System.Web.Optimization.dll
+D:\APPOWNS\Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\System.Web.Razor.dll
+D:\APPOWNS\Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\System.Web.WebPages.Deployment.dll
+D:\APPOWNS\Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\System.Web.WebPages.dll
+D:\APPOWNS\Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\System.Web.WebPages.Razor.dll
+D:\APPOWNS\Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\WebGrease.dll
+D:\APPOWNS\Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\Antlr3.Runtime.pdb
+D:\APPOWNS\Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\EntityFramework.xml
+D:\APPOWNS\Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\EntityFramework.SqlServer.xml
+D:\APPOWNS\Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\Microsoft.AspNet.Identity.Core.xml
+D:\APPOWNS\Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\APPOWNS\Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\APPOWNS\Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\Microsoft.Identity.Client.xml
+D:\APPOWNS\Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\Newtonsoft.Json.xml
+D:\APPOWNS\Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\System.Security.Cryptography.Cng.xml
+D:\APPOWNS\Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\System.Web.Helpers.xml
+D:\APPOWNS\Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\System.Web.Mvc.xml
+D:\APPOWNS\Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\System.Web.Optimization.xml
+D:\APPOWNS\Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\System.Web.Razor.xml
+D:\APPOWNS\Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\System.Web.WebPages.xml
+D:\APPOWNS\Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\System.Web.WebPages.Deployment.xml
+D:\APPOWNS\Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\System.Web.WebPages.Razor.xml
+D:\APPOWNS\Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\obj\Debug\AppOwnsData.csproj.CoreCompileInputs.cache
+D:\APPOWNS\Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\obj\Debug\AppOwnsData.csproj.CopyComplete
+D:\APPOWNS\Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\obj\Debug\AppOwnsData.dll
+D:\APPOWNS\Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\obj\Debug\AppOwnsData.pdb
+D:\APPOWNS\Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\Newtonsoft.Json.Bson.dll
+D:\APPOWNS\Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\Newtonsoft.Json.Bson.pdb
+D:\APPOWNS\Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\Newtonsoft.Json.Bson.xml
+D:\APPOWNS\Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\Microsoft.IdentityModel.Logging.dll
+D:\APPOWNS\Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\Microsoft.IdentityModel.Tokens.dll
+D:\APPOWNS\Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\APPOWNS\Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\Microsoft.IdentityModel.Tokens.xml
+D:\APPOWNS\Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\APPOWNS\Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\obj\Debug\AppOwnsData.csproj.AssemblyReference.cache
+D:\APPOWNS\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\AppOwnsData.dll.config
+D:\APPOWNS\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\AppOwnsData.dll
+D:\APPOWNS\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\AppOwnsData.pdb
+D:\APPOWNS\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\roslyn\csc.exe
+D:\APPOWNS\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\roslyn\csc.exe.config
+D:\APPOWNS\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\roslyn\csc.rsp
+D:\APPOWNS\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\roslyn\csi.exe
+D:\APPOWNS\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\roslyn\csi.exe.config
+D:\APPOWNS\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\roslyn\csi.rsp
+D:\APPOWNS\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\APPOWNS\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\APPOWNS\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\APPOWNS\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\APPOWNS\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\APPOWNS\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\APPOWNS\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\APPOWNS\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\APPOWNS\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\APPOWNS\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\roslyn\Microsoft.Managed.Core.targets
+D:\APPOWNS\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\APPOWNS\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\roslyn\System.Buffers.dll
+D:\APPOWNS\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\roslyn\System.Collections.Immutable.dll
+D:\APPOWNS\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\roslyn\System.Memory.dll
+D:\APPOWNS\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\roslyn\System.Numerics.Vectors.dll
+D:\APPOWNS\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\roslyn\System.Reflection.Metadata.dll
+D:\APPOWNS\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+D:\APPOWNS\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\APPOWNS\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\APPOWNS\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\roslyn\vbc.exe
+D:\APPOWNS\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\roslyn\vbc.exe.config
+D:\APPOWNS\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\roslyn\vbc.rsp
+D:\APPOWNS\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\roslyn\VBCSCompiler.exe
+D:\APPOWNS\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\roslyn\VBCSCompiler.exe.config
+D:\APPOWNS\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\Antlr3.Runtime.dll
+D:\APPOWNS\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\EntityFramework.dll
+D:\APPOWNS\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\EntityFramework.SqlServer.dll
+D:\APPOWNS\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\Microsoft.AspNet.Identity.Core.dll
+D:\APPOWNS\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\APPOWNS\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\APPOWNS\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\Microsoft.Identity.Client.dll
+D:\APPOWNS\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\Microsoft.IdentityModel.Logging.dll
+D:\APPOWNS\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\Microsoft.IdentityModel.Tokens.dll
+D:\APPOWNS\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\Microsoft.PowerBI.Api.dll
+D:\APPOWNS\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\Microsoft.Rest.ClientRuntime.dll
+D:\APPOWNS\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\Microsoft.Web.Infrastructure.dll
+D:\APPOWNS\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\Newtonsoft.Json.Bson.dll
+D:\APPOWNS\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\Newtonsoft.Json.dll
+D:\APPOWNS\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\APPOWNS\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\System.Security.Cryptography.Cng.dll
+D:\APPOWNS\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\System.Web.Helpers.dll
+D:\APPOWNS\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\System.Web.Mvc.dll
+D:\APPOWNS\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\System.Web.Optimization.dll
+D:\APPOWNS\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\System.Web.Razor.dll
+D:\APPOWNS\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\System.Web.WebPages.Deployment.dll
+D:\APPOWNS\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\System.Web.WebPages.dll
+D:\APPOWNS\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\System.Web.WebPages.Razor.dll
+D:\APPOWNS\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\WebGrease.dll
+D:\APPOWNS\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\Antlr3.Runtime.pdb
+D:\APPOWNS\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\EntityFramework.xml
+D:\APPOWNS\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\EntityFramework.SqlServer.xml
+D:\APPOWNS\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\Microsoft.AspNet.Identity.Core.xml
+D:\APPOWNS\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\APPOWNS\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\APPOWNS\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\Microsoft.Identity.Client.xml
+D:\APPOWNS\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\Microsoft.IdentityModel.Tokens.xml
+D:\APPOWNS\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\Newtonsoft.Json.xml
+D:\APPOWNS\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\Newtonsoft.Json.Bson.pdb
+D:\APPOWNS\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\Newtonsoft.Json.Bson.xml
+D:\APPOWNS\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\APPOWNS\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\System.Security.Cryptography.Cng.xml
+D:\APPOWNS\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\System.Web.Helpers.xml
+D:\APPOWNS\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\System.Web.Mvc.xml
+D:\APPOWNS\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\System.Web.Optimization.xml
+D:\APPOWNS\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\System.Web.Razor.xml
+D:\APPOWNS\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\System.Web.WebPages.xml
+D:\APPOWNS\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\System.Web.WebPages.Deployment.xml
+D:\APPOWNS\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\System.Web.WebPages.Razor.xml
+D:\APPOWNS\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\obj\Debug\AppOwnsData.csproj.AssemblyReference.cache
+D:\APPOWNS\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\obj\Debug\AppOwnsData.csproj.CoreCompileInputs.cache
+D:\APPOWNS\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\obj\Debug\AppOwnsData.csproj.CopyComplete
+D:\APPOWNS\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\obj\Debug\AppOwnsData.dll
+D:\APPOWNS\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\obj\Debug\AppOwnsData.pdb
+D:\PowerBI Appowns app\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\AppOwnsData.dll.config
+D:\PowerBI Appowns app\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\AppOwnsData.dll
+D:\PowerBI Appowns app\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\AppOwnsData.pdb
+D:\PowerBI Appowns app\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\roslyn\csc.exe
+D:\PowerBI Appowns app\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\roslyn\csc.exe.config
+D:\PowerBI Appowns app\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\roslyn\csc.rsp
+D:\PowerBI Appowns app\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\roslyn\csi.exe
+D:\PowerBI Appowns app\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\roslyn\csi.exe.config
+D:\PowerBI Appowns app\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\roslyn\csi.rsp
+D:\PowerBI Appowns app\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\PowerBI Appowns app\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\PowerBI Appowns app\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\PowerBI Appowns app\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\PowerBI Appowns app\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\PowerBI Appowns app\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\PowerBI Appowns app\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\PowerBI Appowns app\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\PowerBI Appowns app\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\PowerBI Appowns app\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\roslyn\Microsoft.Managed.Core.targets
+D:\PowerBI Appowns app\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\PowerBI Appowns app\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\roslyn\System.Buffers.dll
+D:\PowerBI Appowns app\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\roslyn\System.Collections.Immutable.dll
+D:\PowerBI Appowns app\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\roslyn\System.Memory.dll
+D:\PowerBI Appowns app\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\roslyn\System.Numerics.Vectors.dll
+D:\PowerBI Appowns app\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\roslyn\System.Reflection.Metadata.dll
+D:\PowerBI Appowns app\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+D:\PowerBI Appowns app\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\PowerBI Appowns app\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\PowerBI Appowns app\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\roslyn\vbc.exe
+D:\PowerBI Appowns app\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\roslyn\vbc.exe.config
+D:\PowerBI Appowns app\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\roslyn\vbc.rsp
+D:\PowerBI Appowns app\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\roslyn\VBCSCompiler.exe
+D:\PowerBI Appowns app\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\roslyn\VBCSCompiler.exe.config
+D:\PowerBI Appowns app\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\Antlr3.Runtime.dll
+D:\PowerBI Appowns app\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\EntityFramework.dll
+D:\PowerBI Appowns app\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\EntityFramework.SqlServer.dll
+D:\PowerBI Appowns app\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\Microsoft.AspNet.Identity.Core.dll
+D:\PowerBI Appowns app\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\PowerBI Appowns app\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\PowerBI Appowns app\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\Microsoft.Identity.Client.dll
+D:\PowerBI Appowns app\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\Microsoft.IdentityModel.Logging.dll
+D:\PowerBI Appowns app\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\Microsoft.IdentityModel.Tokens.dll
+D:\PowerBI Appowns app\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\Microsoft.PowerBI.Api.dll
+D:\PowerBI Appowns app\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\Microsoft.Rest.ClientRuntime.dll
+D:\PowerBI Appowns app\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\Microsoft.Web.Infrastructure.dll
+D:\PowerBI Appowns app\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\Newtonsoft.Json.Bson.dll
+D:\PowerBI Appowns app\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\Newtonsoft.Json.dll
+D:\PowerBI Appowns app\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\PowerBI Appowns app\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\System.Security.Cryptography.Cng.dll
+D:\PowerBI Appowns app\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\System.Web.Helpers.dll
+D:\PowerBI Appowns app\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\System.Web.Mvc.dll
+D:\PowerBI Appowns app\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\System.Web.Optimization.dll
+D:\PowerBI Appowns app\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\System.Web.Razor.dll
+D:\PowerBI Appowns app\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\System.Web.WebPages.Deployment.dll
+D:\PowerBI Appowns app\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\System.Web.WebPages.dll
+D:\PowerBI Appowns app\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\System.Web.WebPages.Razor.dll
+D:\PowerBI Appowns app\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\WebGrease.dll
+D:\PowerBI Appowns app\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\Antlr3.Runtime.pdb
+D:\PowerBI Appowns app\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\EntityFramework.xml
+D:\PowerBI Appowns app\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\EntityFramework.SqlServer.xml
+D:\PowerBI Appowns app\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\Microsoft.AspNet.Identity.Core.xml
+D:\PowerBI Appowns app\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\PowerBI Appowns app\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\PowerBI Appowns app\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\Microsoft.Identity.Client.xml
+D:\PowerBI Appowns app\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\Microsoft.IdentityModel.Tokens.xml
+D:\PowerBI Appowns app\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\Newtonsoft.Json.xml
+D:\PowerBI Appowns app\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\Newtonsoft.Json.Bson.pdb
+D:\PowerBI Appowns app\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\Newtonsoft.Json.Bson.xml
+D:\PowerBI Appowns app\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\PowerBI Appowns app\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\System.Security.Cryptography.Cng.xml
+D:\PowerBI Appowns app\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\System.Web.Helpers.xml
+D:\PowerBI Appowns app\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\System.Web.Mvc.xml
+D:\PowerBI Appowns app\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\System.Web.Optimization.xml
+D:\PowerBI Appowns app\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\System.Web.Razor.xml
+D:\PowerBI Appowns app\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\System.Web.WebPages.xml
+D:\PowerBI Appowns app\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\System.Web.WebPages.Deployment.xml
+D:\PowerBI Appowns app\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\System.Web.WebPages.Razor.xml
+D:\PowerBI Appowns app\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\obj\Debug\AppOwnsData.csproj.AssemblyReference.cache
+D:\PowerBI Appowns app\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\obj\Debug\AppOwnsData.csproj.CoreCompileInputs.cache
+D:\PowerBI Appowns app\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\obj\Debug\AppOwnsD.F54CB96E.Up2Date
+D:\PowerBI Appowns app\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\obj\Debug\AppOwnsData.dll
+D:\PowerBI Appowns app\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\obj\Debug\AppOwnsData.pdb
+D:\APPOWNS\Updated\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\AppOwnsData.dll.config
+D:\APPOWNS\Updated\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\AppOwnsData.dll
+D:\APPOWNS\Updated\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\AppOwnsData.pdb
+D:\APPOWNS\Updated\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\roslyn\csc.exe
+D:\APPOWNS\Updated\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\roslyn\csc.exe.config
+D:\APPOWNS\Updated\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\roslyn\csc.rsp
+D:\APPOWNS\Updated\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\roslyn\csi.exe
+D:\APPOWNS\Updated\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\roslyn\csi.exe.config
+D:\APPOWNS\Updated\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\roslyn\csi.rsp
+D:\APPOWNS\Updated\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\APPOWNS\Updated\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\APPOWNS\Updated\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\APPOWNS\Updated\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\APPOWNS\Updated\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\APPOWNS\Updated\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\APPOWNS\Updated\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\APPOWNS\Updated\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\APPOWNS\Updated\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\APPOWNS\Updated\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\roslyn\Microsoft.Managed.Core.targets
+D:\APPOWNS\Updated\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\APPOWNS\Updated\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\roslyn\System.Buffers.dll
+D:\APPOWNS\Updated\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\roslyn\System.Collections.Immutable.dll
+D:\APPOWNS\Updated\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\roslyn\System.Memory.dll
+D:\APPOWNS\Updated\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\roslyn\System.Numerics.Vectors.dll
+D:\APPOWNS\Updated\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\roslyn\System.Reflection.Metadata.dll
+D:\APPOWNS\Updated\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+D:\APPOWNS\Updated\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\APPOWNS\Updated\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\APPOWNS\Updated\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\roslyn\vbc.exe
+D:\APPOWNS\Updated\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\roslyn\vbc.exe.config
+D:\APPOWNS\Updated\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\roslyn\vbc.rsp
+D:\APPOWNS\Updated\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\roslyn\VBCSCompiler.exe
+D:\APPOWNS\Updated\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\roslyn\VBCSCompiler.exe.config
+D:\APPOWNS\Updated\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\Antlr3.Runtime.dll
+D:\APPOWNS\Updated\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\EntityFramework.dll
+D:\APPOWNS\Updated\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\EntityFramework.SqlServer.dll
+D:\APPOWNS\Updated\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\Microsoft.AspNet.Identity.Core.dll
+D:\APPOWNS\Updated\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\APPOWNS\Updated\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\APPOWNS\Updated\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\Microsoft.Identity.Client.dll
+D:\APPOWNS\Updated\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\Microsoft.IdentityModel.Logging.dll
+D:\APPOWNS\Updated\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\Microsoft.IdentityModel.Tokens.dll
+D:\APPOWNS\Updated\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\Microsoft.PowerBI.Api.dll
+D:\APPOWNS\Updated\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\Microsoft.Rest.ClientRuntime.dll
+D:\APPOWNS\Updated\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\Microsoft.Web.Infrastructure.dll
+D:\APPOWNS\Updated\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\Newtonsoft.Json.Bson.dll
+D:\APPOWNS\Updated\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\Newtonsoft.Json.dll
+D:\APPOWNS\Updated\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\APPOWNS\Updated\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\System.Security.Cryptography.Cng.dll
+D:\APPOWNS\Updated\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\System.Web.Helpers.dll
+D:\APPOWNS\Updated\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\System.Web.Mvc.dll
+D:\APPOWNS\Updated\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\System.Web.Optimization.dll
+D:\APPOWNS\Updated\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\System.Web.Razor.dll
+D:\APPOWNS\Updated\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\System.Web.WebPages.Deployment.dll
+D:\APPOWNS\Updated\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\System.Web.WebPages.dll
+D:\APPOWNS\Updated\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\System.Web.WebPages.Razor.dll
+D:\APPOWNS\Updated\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\WebGrease.dll
+D:\APPOWNS\Updated\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\Antlr3.Runtime.pdb
+D:\APPOWNS\Updated\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\EntityFramework.xml
+D:\APPOWNS\Updated\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\EntityFramework.SqlServer.xml
+D:\APPOWNS\Updated\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\Microsoft.AspNet.Identity.Core.xml
+D:\APPOWNS\Updated\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\APPOWNS\Updated\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\APPOWNS\Updated\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\Microsoft.Identity.Client.xml
+D:\APPOWNS\Updated\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\Microsoft.IdentityModel.Tokens.xml
+D:\APPOWNS\Updated\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\Newtonsoft.Json.xml
+D:\APPOWNS\Updated\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\Newtonsoft.Json.Bson.pdb
+D:\APPOWNS\Updated\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\Newtonsoft.Json.Bson.xml
+D:\APPOWNS\Updated\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\APPOWNS\Updated\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\System.Security.Cryptography.Cng.xml
+D:\APPOWNS\Updated\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\System.Web.Helpers.xml
+D:\APPOWNS\Updated\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\System.Web.Mvc.xml
+D:\APPOWNS\Updated\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\System.Web.Optimization.xml
+D:\APPOWNS\Updated\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\System.Web.Razor.xml
+D:\APPOWNS\Updated\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\System.Web.WebPages.xml
+D:\APPOWNS\Updated\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\System.Web.WebPages.Deployment.xml
+D:\APPOWNS\Updated\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\bin\System.Web.WebPages.Razor.xml
+D:\APPOWNS\Updated\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\obj\Debug\AppOwnsData.csproj.AssemblyReference.cache
+D:\APPOWNS\Updated\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\obj\Debug\AppOwnsData.csproj.CoreCompileInputs.cache
+D:\APPOWNS\Updated\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\obj\Debug\AppOwnsData.csproj.CopyComplete
+D:\APPOWNS\Updated\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\obj\Debug\AppOwnsData.dll
+D:\APPOWNS\Updated\PowerBI Authenticate-ServicePrincipal\Embed for your customers\AppOwnsData\obj\Debug\AppOwnsData.pdb
+D:\Devendra_Solanke\PowerBI.NET\Embed for your customers\Embed for your customers\AppOwnsData\bin\AppOwnsData.dll.config
+D:\Devendra_Solanke\PowerBI.NET\Embed for your customers\Embed for your customers\AppOwnsData\bin\AppOwnsData.dll
+D:\Devendra_Solanke\PowerBI.NET\Embed for your customers\Embed for your customers\AppOwnsData\bin\AppOwnsData.pdb
+D:\Devendra_Solanke\PowerBI.NET\Embed for your customers\Embed for your customers\AppOwnsData\bin\roslyn\csc.exe
+D:\Devendra_Solanke\PowerBI.NET\Embed for your customers\Embed for your customers\AppOwnsData\bin\roslyn\csc.exe.config
+D:\Devendra_Solanke\PowerBI.NET\Embed for your customers\Embed for your customers\AppOwnsData\bin\roslyn\csc.rsp
+D:\Devendra_Solanke\PowerBI.NET\Embed for your customers\Embed for your customers\AppOwnsData\bin\roslyn\csi.exe
+D:\Devendra_Solanke\PowerBI.NET\Embed for your customers\Embed for your customers\AppOwnsData\bin\roslyn\csi.exe.config
+D:\Devendra_Solanke\PowerBI.NET\Embed for your customers\Embed for your customers\AppOwnsData\bin\roslyn\csi.rsp
+D:\Devendra_Solanke\PowerBI.NET\Embed for your customers\Embed for your customers\AppOwnsData\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Devendra_Solanke\PowerBI.NET\Embed for your customers\Embed for your customers\AppOwnsData\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Devendra_Solanke\PowerBI.NET\Embed for your customers\Embed for your customers\AppOwnsData\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Devendra_Solanke\PowerBI.NET\Embed for your customers\Embed for your customers\AppOwnsData\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Devendra_Solanke\PowerBI.NET\Embed for your customers\Embed for your customers\AppOwnsData\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Devendra_Solanke\PowerBI.NET\Embed for your customers\Embed for your customers\AppOwnsData\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Devendra_Solanke\PowerBI.NET\Embed for your customers\Embed for your customers\AppOwnsData\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Devendra_Solanke\PowerBI.NET\Embed for your customers\Embed for your customers\AppOwnsData\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Devendra_Solanke\PowerBI.NET\Embed for your customers\Embed for your customers\AppOwnsData\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Devendra_Solanke\PowerBI.NET\Embed for your customers\Embed for your customers\AppOwnsData\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Devendra_Solanke\PowerBI.NET\Embed for your customers\Embed for your customers\AppOwnsData\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Devendra_Solanke\PowerBI.NET\Embed for your customers\Embed for your customers\AppOwnsData\bin\roslyn\System.Buffers.dll
+D:\Devendra_Solanke\PowerBI.NET\Embed for your customers\Embed for your customers\AppOwnsData\bin\roslyn\System.Collections.Immutable.dll
+D:\Devendra_Solanke\PowerBI.NET\Embed for your customers\Embed for your customers\AppOwnsData\bin\roslyn\System.Memory.dll
+D:\Devendra_Solanke\PowerBI.NET\Embed for your customers\Embed for your customers\AppOwnsData\bin\roslyn\System.Numerics.Vectors.dll
+D:\Devendra_Solanke\PowerBI.NET\Embed for your customers\Embed for your customers\AppOwnsData\bin\roslyn\System.Reflection.Metadata.dll
+D:\Devendra_Solanke\PowerBI.NET\Embed for your customers\Embed for your customers\AppOwnsData\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+D:\Devendra_Solanke\PowerBI.NET\Embed for your customers\Embed for your customers\AppOwnsData\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Devendra_Solanke\PowerBI.NET\Embed for your customers\Embed for your customers\AppOwnsData\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Devendra_Solanke\PowerBI.NET\Embed for your customers\Embed for your customers\AppOwnsData\bin\roslyn\vbc.exe
+D:\Devendra_Solanke\PowerBI.NET\Embed for your customers\Embed for your customers\AppOwnsData\bin\roslyn\vbc.exe.config
+D:\Devendra_Solanke\PowerBI.NET\Embed for your customers\Embed for your customers\AppOwnsData\bin\roslyn\vbc.rsp
+D:\Devendra_Solanke\PowerBI.NET\Embed for your customers\Embed for your customers\AppOwnsData\bin\roslyn\VBCSCompiler.exe
+D:\Devendra_Solanke\PowerBI.NET\Embed for your customers\Embed for your customers\AppOwnsData\bin\roslyn\VBCSCompiler.exe.config
+D:\Devendra_Solanke\PowerBI.NET\Embed for your customers\Embed for your customers\AppOwnsData\bin\Antlr3.Runtime.dll
+D:\Devendra_Solanke\PowerBI.NET\Embed for your customers\Embed for your customers\AppOwnsData\bin\EntityFramework.dll
+D:\Devendra_Solanke\PowerBI.NET\Embed for your customers\Embed for your customers\AppOwnsData\bin\EntityFramework.SqlServer.dll
+D:\Devendra_Solanke\PowerBI.NET\Embed for your customers\Embed for your customers\AppOwnsData\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Devendra_Solanke\PowerBI.NET\Embed for your customers\Embed for your customers\AppOwnsData\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Devendra_Solanke\PowerBI.NET\Embed for your customers\Embed for your customers\AppOwnsData\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Devendra_Solanke\PowerBI.NET\Embed for your customers\Embed for your customers\AppOwnsData\bin\Microsoft.Identity.Client.dll
+D:\Devendra_Solanke\PowerBI.NET\Embed for your customers\Embed for your customers\AppOwnsData\bin\Microsoft.IdentityModel.Logging.dll
+D:\Devendra_Solanke\PowerBI.NET\Embed for your customers\Embed for your customers\AppOwnsData\bin\Microsoft.IdentityModel.Tokens.dll
+D:\Devendra_Solanke\PowerBI.NET\Embed for your customers\Embed for your customers\AppOwnsData\bin\Microsoft.PowerBI.Api.dll
+D:\Devendra_Solanke\PowerBI.NET\Embed for your customers\Embed for your customers\AppOwnsData\bin\Microsoft.Rest.ClientRuntime.dll
+D:\Devendra_Solanke\PowerBI.NET\Embed for your customers\Embed for your customers\AppOwnsData\bin\Microsoft.Web.Infrastructure.dll
+D:\Devendra_Solanke\PowerBI.NET\Embed for your customers\Embed for your customers\AppOwnsData\bin\Newtonsoft.Json.Bson.dll
+D:\Devendra_Solanke\PowerBI.NET\Embed for your customers\Embed for your customers\AppOwnsData\bin\Newtonsoft.Json.dll
+D:\Devendra_Solanke\PowerBI.NET\Embed for your customers\Embed for your customers\AppOwnsData\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\Devendra_Solanke\PowerBI.NET\Embed for your customers\Embed for your customers\AppOwnsData\bin\System.Security.Cryptography.Cng.dll
+D:\Devendra_Solanke\PowerBI.NET\Embed for your customers\Embed for your customers\AppOwnsData\bin\System.Web.Helpers.dll
+D:\Devendra_Solanke\PowerBI.NET\Embed for your customers\Embed for your customers\AppOwnsData\bin\System.Web.Mvc.dll
+D:\Devendra_Solanke\PowerBI.NET\Embed for your customers\Embed for your customers\AppOwnsData\bin\System.Web.Optimization.dll
+D:\Devendra_Solanke\PowerBI.NET\Embed for your customers\Embed for your customers\AppOwnsData\bin\System.Web.Razor.dll
+D:\Devendra_Solanke\PowerBI.NET\Embed for your customers\Embed for your customers\AppOwnsData\bin\System.Web.WebPages.Deployment.dll
+D:\Devendra_Solanke\PowerBI.NET\Embed for your customers\Embed for your customers\AppOwnsData\bin\System.Web.WebPages.dll
+D:\Devendra_Solanke\PowerBI.NET\Embed for your customers\Embed for your customers\AppOwnsData\bin\System.Web.WebPages.Razor.dll
+D:\Devendra_Solanke\PowerBI.NET\Embed for your customers\Embed for your customers\AppOwnsData\bin\WebGrease.dll
+D:\Devendra_Solanke\PowerBI.NET\Embed for your customers\Embed for your customers\AppOwnsData\bin\Antlr3.Runtime.pdb
+D:\Devendra_Solanke\PowerBI.NET\Embed for your customers\Embed for your customers\AppOwnsData\bin\EntityFramework.xml
+D:\Devendra_Solanke\PowerBI.NET\Embed for your customers\Embed for your customers\AppOwnsData\bin\EntityFramework.SqlServer.xml
+D:\Devendra_Solanke\PowerBI.NET\Embed for your customers\Embed for your customers\AppOwnsData\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Devendra_Solanke\PowerBI.NET\Embed for your customers\Embed for your customers\AppOwnsData\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Devendra_Solanke\PowerBI.NET\Embed for your customers\Embed for your customers\AppOwnsData\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Devendra_Solanke\PowerBI.NET\Embed for your customers\Embed for your customers\AppOwnsData\bin\Microsoft.Identity.Client.xml
+D:\Devendra_Solanke\PowerBI.NET\Embed for your customers\Embed for your customers\AppOwnsData\bin\Microsoft.IdentityModel.Tokens.xml
+D:\Devendra_Solanke\PowerBI.NET\Embed for your customers\Embed for your customers\AppOwnsData\bin\Newtonsoft.Json.xml
+D:\Devendra_Solanke\PowerBI.NET\Embed for your customers\Embed for your customers\AppOwnsData\bin\Newtonsoft.Json.Bson.pdb
+D:\Devendra_Solanke\PowerBI.NET\Embed for your customers\Embed for your customers\AppOwnsData\bin\Newtonsoft.Json.Bson.xml
+D:\Devendra_Solanke\PowerBI.NET\Embed for your customers\Embed for your customers\AppOwnsData\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\Devendra_Solanke\PowerBI.NET\Embed for your customers\Embed for your customers\AppOwnsData\bin\System.Security.Cryptography.Cng.xml
+D:\Devendra_Solanke\PowerBI.NET\Embed for your customers\Embed for your customers\AppOwnsData\bin\System.Web.Helpers.xml
+D:\Devendra_Solanke\PowerBI.NET\Embed for your customers\Embed for your customers\AppOwnsData\bin\System.Web.Mvc.xml
+D:\Devendra_Solanke\PowerBI.NET\Embed for your customers\Embed for your customers\AppOwnsData\bin\System.Web.Optimization.xml
+D:\Devendra_Solanke\PowerBI.NET\Embed for your customers\Embed for your customers\AppOwnsData\bin\System.Web.Razor.xml
+D:\Devendra_Solanke\PowerBI.NET\Embed for your customers\Embed for your customers\AppOwnsData\bin\System.Web.WebPages.xml
+D:\Devendra_Solanke\PowerBI.NET\Embed for your customers\Embed for your customers\AppOwnsData\bin\System.Web.WebPages.Deployment.xml
+D:\Devendra_Solanke\PowerBI.NET\Embed for your customers\Embed for your customers\AppOwnsData\bin\System.Web.WebPages.Razor.xml
+D:\Devendra_Solanke\PowerBI.NET\Embed for your customers\Embed for your customers\AppOwnsData\obj\Debug\AppOwnsData.csproj.AssemblyReference.cache
+D:\Devendra_Solanke\PowerBI.NET\Embed for your customers\Embed for your customers\AppOwnsData\obj\Debug\AppOwnsData.csproj.CoreCompileInputs.cache
+D:\Devendra_Solanke\PowerBI.NET\Embed for your customers\Embed for your customers\AppOwnsData\obj\Debug\AppOwnsD.F54CB96E.Up2Date
+D:\Devendra_Solanke\PowerBI.NET\Embed for your customers\Embed for your customers\AppOwnsData\obj\Debug\AppOwnsData.dll
+D:\Devendra_Solanke\PowerBI.NET\Embed for your customers\Embed for your customers\AppOwnsData\obj\Debug\AppOwnsData.pdb
+D:\Devendra_Solanke\PowerBI.NET\Embed for your customers\Embed for your customers\AppOwnsData\bin\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Devendra_Solanke\PowerBI.NET\Embed for your customers\Embed for your customers\AppOwnsData\bin\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Devendra_Solanke\PowerBI.NET\Embed for your customers\Embed for your customers\AppOwnsData\bin\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Devendra_Solanke\PowerBI.NET\Embed for your customers\Embed for your customers\AppOwnsData\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Devendra_Solanke\PowerBI.NET\Embed for your customers\Embed for your customers\AppOwnsData\bin\Microsoft.Extensions.DependencyInjection.dll
+D:\Devendra_Solanke\PowerBI.NET\Embed for your customers\Embed for your customers\AppOwnsData\bin\Microsoft.Extensions.Identity.Core.dll
+D:\Devendra_Solanke\PowerBI.NET\Embed for your customers\Embed for your customers\AppOwnsData\bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Devendra_Solanke\PowerBI.NET\Embed for your customers\Embed for your customers\AppOwnsData\bin\Microsoft.Extensions.Logging.dll
+D:\Devendra_Solanke\PowerBI.NET\Embed for your customers\Embed for your customers\AppOwnsData\bin\Microsoft.Extensions.Options.dll
+D:\Devendra_Solanke\PowerBI.NET\Embed for your customers\Embed for your customers\AppOwnsData\bin\Microsoft.Extensions.Primitives.dll
+D:\Devendra_Solanke\PowerBI.NET\Embed for your customers\Embed for your customers\AppOwnsData\bin\System.Buffers.dll
+D:\Devendra_Solanke\PowerBI.NET\Embed for your customers\Embed for your customers\AppOwnsData\bin\System.ComponentModel.Annotations.dll
+D:\Devendra_Solanke\PowerBI.NET\Embed for your customers\Embed for your customers\AppOwnsData\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Devendra_Solanke\PowerBI.NET\Embed for your customers\Embed for your customers\AppOwnsData\bin\System.Memory.dll
+D:\Devendra_Solanke\PowerBI.NET\Embed for your customers\Embed for your customers\AppOwnsData\bin\System.Numerics.Vectors.dll
+D:\Devendra_Solanke\PowerBI.NET\Embed for your customers\Embed for your customers\AppOwnsData\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Devendra_Solanke\PowerBI.NET\Embed for your customers\Embed for your customers\AppOwnsData\bin\System.Threading.Tasks.Extensions.dll
+D:\Devendra_Solanke\PowerBI.NET\Embed for your customers\Embed for your customers\AppOwnsData\bin\System.ValueTuple.dll
+D:\Devendra_Solanke\PowerBI.NET\Embed for your customers\Embed for your customers\AppOwnsData\bin\Microsoft.AspNetCore.Cryptography.Internal.xml
+D:\Devendra_Solanke\PowerBI.NET\Embed for your customers\Embed for your customers\AppOwnsData\bin\Microsoft.AspNetCore.Cryptography.KeyDerivation.xml
+D:\Devendra_Solanke\PowerBI.NET\Embed for your customers\Embed for your customers\AppOwnsData\bin\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Devendra_Solanke\PowerBI.NET\Embed for your customers\Embed for your customers\AppOwnsData\bin\Microsoft.Extensions.DependencyInjection.xml
+D:\Devendra_Solanke\PowerBI.NET\Embed for your customers\Embed for your customers\AppOwnsData\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Devendra_Solanke\PowerBI.NET\Embed for your customers\Embed for your customers\AppOwnsData\bin\Microsoft.Extensions.Identity.Core.xml
+D:\Devendra_Solanke\PowerBI.NET\Embed for your customers\Embed for your customers\AppOwnsData\bin\Microsoft.Extensions.Logging.xml
+D:\Devendra_Solanke\PowerBI.NET\Embed for your customers\Embed for your customers\AppOwnsData\bin\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Devendra_Solanke\PowerBI.NET\Embed for your customers\Embed for your customers\AppOwnsData\bin\Microsoft.Extensions.Options.xml
+D:\Devendra_Solanke\PowerBI.NET\Embed for your customers\Embed for your customers\AppOwnsData\bin\Microsoft.Extensions.Primitives.xml
+D:\Devendra_Solanke\PowerBI.NET\Embed for your customers\Embed for your customers\AppOwnsData\bin\System.Buffers.xml
+D:\Devendra_Solanke\PowerBI.NET\Embed for your customers\Embed for your customers\AppOwnsData\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Devendra_Solanke\PowerBI.NET\Embed for your customers\Embed for your customers\AppOwnsData\bin\System.Memory.xml
+D:\Devendra_Solanke\PowerBI.NET\Embed for your customers\Embed for your customers\AppOwnsData\bin\System.Numerics.Vectors.xml
+D:\Devendra_Solanke\PowerBI.NET\Embed for your customers\Embed for your customers\AppOwnsData\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Devendra_Solanke\PowerBI.NET\Embed for your customers\Embed for your customers\AppOwnsData\bin\System.Threading.Tasks.Extensions.xml
+D:\Devendra_Solanke\PowerBI.NET\Embed for your customers\Embed for your customers\AppOwnsData\bin\System.ValueTuple.xml
+D:\Devendra_Solanke\PowerBI.NET\Embed for your customers\Embed for your customers\AppOwnsData\bin\Microsoft.Bcl.TimeProvider.dll
+D:\Devendra_Solanke\PowerBI.NET\Embed for your customers\Embed for your customers\AppOwnsData\bin\Microsoft.IdentityModel.Abstractions.dll
+D:\Devendra_Solanke\PowerBI.NET\Embed for your customers\Embed for your customers\AppOwnsData\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Devendra_Solanke\PowerBI.NET\Embed for your customers\Embed for your customers\AppOwnsData\bin\Microsoft.Owin.Cors.dll
+D:\Devendra_Solanke\PowerBI.NET\Embed for your customers\Embed for your customers\AppOwnsData\bin\Microsoft.Owin.dll
+D:\Devendra_Solanke\PowerBI.NET\Embed for your customers\Embed for your customers\AppOwnsData\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Devendra_Solanke\PowerBI.NET\Embed for your customers\Embed for your customers\AppOwnsData\bin\Microsoft.Owin.Security.dll
+D:\Devendra_Solanke\PowerBI.NET\Embed for your customers\Embed for your customers\AppOwnsData\bin\Microsoft.Owin.Security.Jwt.dll
+D:\Devendra_Solanke\PowerBI.NET\Embed for your customers\Embed for your customers\AppOwnsData\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Devendra_Solanke\PowerBI.NET\Embed for your customers\Embed for your customers\AppOwnsData\bin\Owin.dll
+D:\Devendra_Solanke\PowerBI.NET\Embed for your customers\Embed for your customers\AppOwnsData\bin\System.Text.Encodings.Web.dll
+D:\Devendra_Solanke\PowerBI.NET\Embed for your customers\Embed for your customers\AppOwnsData\bin\System.Text.Json.dll
+D:\Devendra_Solanke\PowerBI.NET\Embed for your customers\Embed for your customers\AppOwnsData\bin\System.Web.Cors.dll
+D:\Devendra_Solanke\PowerBI.NET\Embed for your customers\Embed for your customers\AppOwnsData\bin\Microsoft.Bcl.TimeProvider.xml
+D:\Devendra_Solanke\PowerBI.NET\Embed for your customers\Embed for your customers\AppOwnsData\bin\Microsoft.IdentityModel.Abstractions.xml
+D:\Devendra_Solanke\PowerBI.NET\Embed for your customers\Embed for your customers\AppOwnsData\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\Devendra_Solanke\PowerBI.NET\Embed for your customers\Embed for your customers\AppOwnsData\bin\Microsoft.IdentityModel.Logging.xml
+D:\Devendra_Solanke\PowerBI.NET\Embed for your customers\Embed for your customers\AppOwnsData\bin\Microsoft.Owin.xml
+D:\Devendra_Solanke\PowerBI.NET\Embed for your customers\Embed for your customers\AppOwnsData\bin\Microsoft.Owin.Cors.xml
+D:\Devendra_Solanke\PowerBI.NET\Embed for your customers\Embed for your customers\AppOwnsData\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Devendra_Solanke\PowerBI.NET\Embed for your customers\Embed for your customers\AppOwnsData\bin\Microsoft.Owin.Security.xml
+D:\Devendra_Solanke\PowerBI.NET\Embed for your customers\Embed for your customers\AppOwnsData\bin\Microsoft.Owin.Security.Jwt.xml
+D:\Devendra_Solanke\PowerBI.NET\Embed for your customers\Embed for your customers\AppOwnsData\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Devendra_Solanke\PowerBI.NET\Embed for your customers\Embed for your customers\AppOwnsData\bin\System.Text.Encodings.Web.xml
+D:\Devendra_Solanke\PowerBI.NET\Embed for your customers\Embed for your customers\AppOwnsData\bin\System.Text.Json.xml

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\inetpub\wwwroot\PowerBIReports</_PublishTargetUrl>
+    <History>False|2024-10-18T04:53:49.8486592Z;False|2024-10-17T14:16:04.2972744+05:30;False|2023-12-20T17:03:33.9444949+05:30;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>

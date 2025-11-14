@@ -1,0 +1,311 @@
+﻿@model AppOwnsData.Models.ReportEmbedConfig
+@{
+    ViewBag.Title = "TitanX Report";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    var dt = ViewBag.ReportTable as System.Data.DataTable;
+}
+
+<script src="~/scripts/powerbi.js"></script>
+
+<style>
+    body {
+        background-color: #f5f9ff;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        margin: 0;
+        padding: 0;
+        height: 100vh;
+        overflow: hidden;
+    }
+
+    .container-flex {
+        display: flex;
+        height: 100vh;
+    }
+
+    /* Smaller Sidebar */
+    .sidebar {
+        width: 200px; /* reduced from 260px */
+        background-color: #094780;
+        color: white;
+        display: flex;
+        flex-direction: column;
+        padding: 15px;
+        box-shadow: 2px 0 10px rgba(0,0,0,0.15);
+    }
+
+        .sidebar h3 {
+            text-align: center;
+            margin-bottom: 20px;
+            font-weight: 700;
+            font-size: 18px;
+        }
+
+    .sidebar-item {
+        padding: 10px 12px;
+        margin-bottom: 6px;
+        border-radius: 6px;
+        cursor: pointer;
+        transition: background-color 0.2s;
+        font-weight: 500;
+        background-color: rgba(255,255,255,0.15);
+        font-size: 14px;
+        text-overflow: ellipsis;
+        overflow: hidden;
+        white-space: nowrap;
+    }
+
+        .sidebar-item:hover,
+        .sidebar-item.active {
+            background-color: rgba(255,255,255,0.35);
+        }
+
+    /* Content takes full space */
+    .content {
+        flex-grow: 1;
+        position: relative;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: flex-start;
+        padding: 10px 20px; /* reduced padding for more report space */
+    }
+
+    .top-bar {
+        position: absolute;
+        top: 20px;
+        right: 20px;
+    }
+
+    .logout-btn {
+        background-color: #dc3545;
+        color: white;
+        border: none;
+        padding: 7px 16px;
+        border-radius: 6px;
+        font-weight: 500;
+        cursor: pointer;
+        transition: background-color 0.3s ease;
+    }
+
+        .logout-btn:hover {
+            background-color: #b02a37;
+        }
+
+    h2 {
+        color: #0d6efd;
+        font-weight: 700;
+        margin-bottom: 10px;
+        margin-top: 40px;
+        font-size: 20px;
+    }
+
+    /* Larger report area */
+    #embedContainer {
+        width: 100%;
+        height: 88vh; /* increased height */
+        border-radius: 10px;
+        overflow: hidden;
+        box-shadow: 0 6px 25px rgba(0, 0, 0, 0.1);
+        background-color: white;
+    }
+
+    .report-details {
+        margin-bottom: 10px;
+        color: #333;
+        font-size: 13px;
+    }
+
+    /* Optional: make loader blend better */
+    #loaderOverlay {
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        background-color: rgba(255, 255, 255, 0.85);
+        display: none;
+        align-items: center;
+        justify-content: center;
+        font-size: 18px;
+        color: #0d6efd;
+        font-weight: 600;
+        z-index: 999;
+        backdrop-filter: blur(2px);
+    }
+
+    .powerbi-header {
+        display: flex;
+        flex-direction: column;
+        align-items: center; /* ✅ Horizontal center */
+        justify-content: center; /* ✅ Vertical alignment */
+        text-align: center;
+        margin-bottom: 25px;
+        margin-top: 10px;
+    }
+
+        .powerbi-header img {
+            width: 55px;
+            height: auto;
+            margin-right: 0px;
+        }
+
+        .powerbi-header span {
+            font-size: 16px;
+            font-weight: 700;
+            color: #ffc107; /* ✅ Power BI Yellow */
+            letter-spacing: 1px;
+        }
+
+</style>
+
+<div id="loaderOverlay" style="
+    position: absolute;
+    top: 0; left: 0; right: 0; bottom: 0;
+    background-color: rgba(255,255,255,0.8);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 18px;
+    color: #0d6efd;
+    font-weight: 600;
+    z-index: 999;
+    backdrop-filter: blur(2px);
+    display: none;">
+    ⏳ Loading report, please wait...
+</div>
+
+<div class="container-flex">
+    <!-- Sidebar -->
+    <div class="sidebar">
+        
+        <div class="powerbi-header">
+            <img src="~/Content/Images/icon-power-bi.png" alt="Power BI Logo" />
+            <span>PowerBI Reports</span>
+        </div>
+
+        @if (dt != null && dt.Rows.Count > 0)
+        {
+            int index = 0;
+            foreach (System.Data.DataRow row in dt.Rows)
+            {
+                string reportName = row["ReportName"].ToString();
+                string reportId = row["ReportID"].ToString();
+                <div class="sidebar-item @(index == 0 ? "active" : "")"
+                     data-reportid="@reportId"
+                     data-reportname="@reportName">
+                    📊 @reportName
+                </div>
+                index++;
+            }
+        }
+        else
+        {
+            <p>No reports found.</p>
+        }
+
+    </div>
+
+    <!-- Main Content -->
+    <div class="content">
+        <!-- Top-right User + Logout -->
+        <div class="top-bar">
+            <span style="margin-right: 15px; font-weight: 500; color: #094780; ">
+                👤 @ViewBag.UserID
+            </span>
+            <form action="@Url.Action("Logout", "Login")" method="post" style="display:inline;">
+                <button type="submit" class="logout-btn">Logout</button>
+            </form>
+        </div>
+
+        <h2></h2>
+        <div class="report-details" id="reportDetails"></div>
+        <div id="embedContainer"></div>
+    </div>
+</div>
+
+<script>
+    const reportContainer = document.getElementById('embedContainer');
+    const reportDetails = document.getElementById('reportDetails');
+    const sidebarItems = document.querySelectorAll('.sidebar-item');
+    const models = window['powerbi-client'].models;
+
+    powerbi.bootstrap(reportContainer, { type: 'report' });
+
+    async function loadReport(reportId, reportName) {
+
+        // ✅ Fetch report + filter details from server
+        const response = await fetch(`/Home/GetReportEmbedData?reportId=${reportId}`);
+        const data = await response.json();
+
+        if (!data.success) {
+            alert("Error loading report: " + data.message);
+            return;
+        }
+
+        powerbi.reset(reportContainer);
+
+        // ✅ Basic embed config
+        const config = {
+            type: 'report',
+            tokenType: models.TokenType.Embed,
+            accessToken: data.token,
+            embedUrl: data.embedUrl,
+            id: data.reportId,
+            permissions: models.Permissions.All,
+            settings: {
+                filterPaneEnabled: false,
+                navContentPaneEnabled: true
+            }
+        };
+
+        const report = powerbi.embed(reportContainer, config);
+
+        // ✅ APPLY FILTER ONLY IF SERVER RETURNED PROPER FILTER DATA
+        if (
+            data.filter &&
+            data.filter.table &&
+            data.filter.column &&
+            Array.isArray(data.filter.values) &&
+            data.filter.values.length > 0
+        ) {
+            const basicFilter = {
+                $schema: "http://powerbi.com/product/schema#basic",
+                target: {
+                    table: data.filter.table,
+                    column: data.filter.column
+                },
+                operator: "In",
+                values: data.filter.values,
+                filterType: models.FilterType.Basic
+            };
+
+            // ✅ Apply filter after report loads
+            report.on("loaded", async () => {
+                try {
+                    await report.setFilters([basicFilter]);
+                    console.log("✅ Filter applied", basicFilter);
+                }
+                catch (err) {
+                    console.error("❌ Filter error:", err);
+                }
+            });
+        } else {
+            console.log("⚠ No filter data returned for this report.");
+        }
+    }
+
+    // ✅ Initial load — first report
+    if (sidebarItems.length > 0) {
+        const first = sidebarItems[0];
+        loadReport(first.dataset.reportid, first.dataset.reportname);
+    }
+
+    // ✅ Sidebar click — fetch token & apply filter
+    sidebarItems.forEach(item => {
+        item.addEventListener('click', () => {
+            sidebarItems.forEach(i => i.classList.remove('active'));
+            item.classList.add('active');
+            loadReport(item.dataset.reportid, item.dataset.reportname);
+        });
+    });
+</script>
